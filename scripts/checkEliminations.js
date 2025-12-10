@@ -35,4 +35,6 @@ async function main() {
 }
 
 console.log("Checking elimination status");
+const { handleEliminations } = await import("./onElimination.js");
+    await handleEliminations(eliminatedTeams);
 main();
