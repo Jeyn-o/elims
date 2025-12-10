@@ -39,4 +39,4 @@ main();
 
 import { handleEliminations } from "./onElimination.js";
 
-await handleEliminations([{ id: 9999, name: "Test Team" }]);
+await handleEliminations([{ id: 9997, name: "Test Team3" }]);
