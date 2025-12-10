@@ -34,4 +34,5 @@ async function main() {
   fs.writeFileSync(STATE_FILE, JSON.stringify(newState, null, 2));
 }
 
+console.log("Checking elimination status");
 main();
