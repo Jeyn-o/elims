@@ -2,7 +2,7 @@ import fs from "fs";
 import https from "https";
 
 // Hardcoded API key since it's temporary
-const API_KEY = 'xdebhV4kVsmzMj8X';
+const API_KEY = 'li0qoJSKMsD1xmVr';
 
 const URLS = {
   attacksWon: `https://api.torn.com/v2/faction/contributors?stat=attackswon&key=${API_KEY}`,
