@@ -21,8 +21,8 @@ Travels: 391
 
 446596 - Bucki
 Attacks won: 3614
-Attacks lost: 832
-Hosps: 2276
+Attacks lost: 834
+Hosps: 2280
 Cans: 136
 Travels: 635
 
@@ -48,9 +48,9 @@ Cans: 346
 Travels: 435
 
 1166445 - Top
-Attacks won: 9681
-Attacks lost: 1069
-Hosps: 3037
+Attacks won: 9692
+Attacks lost: 1070
+Hosps: 3039
 Cans: 2144
 Travels: 2826
 
@@ -265,7 +265,7 @@ Cans: 28
 Travels: 35
 
 2675301 - ExiledAstronaut
-Attacks won: 7339
+Attacks won: 7341
 Attacks lost: 1211
 Hosps: 3340
 Cans: 11
@@ -357,8 +357,8 @@ Travels: 169
 
 2937449 - Piraterer
 Attacks won: 6441
-Attacks lost: 809
-Hosps: 1978
+Attacks lost: 810
+Hosps: 1980
 Cans: 39
 Travels: 1471
 
@@ -419,9 +419,9 @@ Cans: 0
 Travels: 132
 
 3193353 - xyicah
-Attacks won: 4228
-Attacks lost: 563
-Hosps: 1432
+Attacks won: 4229
+Attacks lost: 565
+Hosps: 1436
 Cans: 371
 Travels: 3058
 
@@ -454,7 +454,7 @@ Cans: 0
 Travels: 0
 
 3342314 - Krytical
-Attacks won: 3563
+Attacks won: 3564
 Attacks lost: 545
 Hosps: 1162
 Cans: 1527
@@ -490,8 +490,8 @@ Travels: 1024
 
 3447443 - Jordanw1
 Attacks won: 1341
-Attacks lost: 170
-Hosps: 400
+Attacks lost: 171
+Hosps: 402
 Cans: 0
 Travels: 310
 
@@ -540,7 +540,7 @@ Travels: 671
 3628419 - Littlegman212
 Attacks won: 605
 Attacks lost: 217
-Hosps: 642
+Hosps: 643
 Cans: 20
 Travels: 12
 
@@ -549,7 +549,7 @@ Attacks won: 913
 Attacks lost: 82
 Hosps: 214
 Cans: 30
-Travels: 325
+Travels: 326
 
 3679190 - RubyFalls
 Attacks won: 1843
@@ -587,9 +587,9 @@ Cans: 0
 Travels: 156
 
 3841404 - Sleepy_Skyes
-Attacks won: 458
+Attacks won: 463
 Attacks lost: 88
-Hosps: 239
+Hosps: 240
 Cans: 15
 Travels: 25
 
