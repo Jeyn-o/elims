@@ -21,8 +21,8 @@ Travels: 391
 
 446596 - Bucki
 Attacks won: 3614
-Attacks lost: 830
-Hosps: 2272
+Attacks lost: 832
+Hosps: 2276
 Cans: 136
 Travels: 635
 
@@ -48,7 +48,7 @@ Cans: 346
 Travels: 435
 
 1166445 - Top
-Attacks won: 9679
+Attacks won: 9681
 Attacks lost: 1069
 Hosps: 3037
 Cans: 2144
@@ -111,11 +111,11 @@ Cans: 7
 Travels: 258
 
 2162860 - daddyg
-Attacks won: 19038
+Attacks won: 19039
 Attacks lost: 1490
 Hosps: 4263
 Cans: 297
-Travels: 12653
+Travels: 12654
 
 2184227 - SassyMcSlacker
 Attacks won: 10674
@@ -356,9 +356,9 @@ Cans: 0
 Travels: 169
 
 2937449 - Piraterer
-Attacks won: 6431
-Attacks lost: 808
-Hosps: 1976
+Attacks won: 6441
+Attacks lost: 809
+Hosps: 1978
 Cans: 39
 Travels: 1471
 
@@ -398,7 +398,7 @@ Cans: 5
 Travels: 781
 
 3160215 - Anri_of_Astora
-Attacks won: 3027
+Attacks won: 3028
 Attacks lost: 305
 Hosps: 892
 Cans: 65
@@ -433,7 +433,7 @@ Cans: 52
 Travels: 13
 
 3292894 - VEGABABY
-Attacks won: 5084
+Attacks won: 5088
 Attacks lost: 379
 Hosps: 995
 Cans: 8
@@ -535,7 +535,7 @@ Attacks won: 1602
 Attacks lost: 322
 Hosps: 749
 Cans: 0
-Travels: 670
+Travels: 671
 
 3628419 - Littlegman212
 Attacks won: 605
@@ -568,7 +568,7 @@ Travels: 276
 3759168 - AIshen
 Attacks won: 938
 Attacks lost: 1271
-Hosps: 3275
+Hosps: 3276
 Cans: 4
 Travels: 436
 
@@ -577,7 +577,7 @@ Attacks won: 663
 Attacks lost: 170
 Hosps: 465
 Cans: 1
-Travels: 118
+Travels: 119
 
 3838831 - Lev_Bron
 Attacks won: 350
