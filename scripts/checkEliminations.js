@@ -36,3 +36,7 @@ async function main() {
 
 console.log("Checking elimination status");
 main();
+
+import { handleEliminations } from "./onElimination.js";
+
+await handleEliminations([{ id: 9999, name: "Test Team" }]);
