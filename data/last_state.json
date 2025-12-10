@@ -28,7 +28,7 @@
   {
     "id": 1,
     "name": "Pink Power",
-    "participants": 1723,
+    "participants": 1721,
     "position": 0,
     "score": 0,
     "lives": 50,
@@ -54,7 +54,7 @@
   {
     "id": 32,
     "name": "Lumberjacks",
-    "participants": 1689,
+    "participants": 1683,
     "position": 0,
     "score": 0,
     "lives": 50,
@@ -80,7 +80,7 @@
   {
     "id": 33,
     "name": "Team Cupcake",
-    "participants": 1741,
+    "participants": 1740,
     "position": 0,
     "score": 0,
     "lives": 50,
@@ -106,7 +106,7 @@
   {
     "id": 34,
     "name": "Punchbags",
-    "participants": 1737,
+    "participants": 1732,
     "position": 0,
     "score": 0,
     "lives": 50,
@@ -132,7 +132,7 @@
   {
     "id": 36,
     "name": "Breakfast Club",
-    "participants": 1721,
+    "participants": 1720,
     "position": 0,
     "score": 0,
     "lives": 50,
@@ -158,7 +158,7 @@
   {
     "id": 47,
     "name": "Murder Hornets",
-    "participants": 1754,
+    "participants": 1753,
     "position": 0,
     "score": 0,
     "lives": 50,
@@ -208,35 +208,9 @@
     ]
   },
   {
-    "id": 52,
-    "name": "Total Bankers",
-    "participants": 1751,
-    "position": 0,
-    "score": 0,
-    "lives": 50,
-    "wins": 0,
-    "losses": 0,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 2131856,
-        "name": "Superior-"
-      },
-      {
-        "id": 1651049,
-        "name": "Natty_Boh"
-      },
-      {
-        "id": 10003,
-        "name": "Shady69"
-      }
-    ]
-  },
-  {
     "id": 68,
     "name": "Metalheads",
-    "participants": 1628,
+    "participants": 1624,
     "position": 0,
     "score": 0,
     "lives": 50,
@@ -262,7 +236,7 @@
   {
     "id": 69,
     "name": "Village Idiots",
-    "participants": 1725,
+    "participants": 1722,
     "position": 0,
     "score": 0,
     "lives": 50,
@@ -288,7 +262,7 @@
   {
     "id": 49,
     "name": "Terror Bytes",
-    "participants": 1736,
+    "participants": 1732,
     "position": 0,
     "score": 0,
     "lives": 50,
@@ -308,6 +282,32 @@
       {
         "id": 1580562,
         "name": "LDP"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Total Bankers",
+    "participants": 1747,
+    "position": 0,
+    "score": 0,
+    "lives": 50,
+    "wins": 0,
+    "losses": 0,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 2131856,
+        "name": "Superior-"
+      },
+      {
+        "id": 1651049,
+        "name": "Natty_Boh"
+      },
+      {
+        "id": 10003,
+        "name": "Shady69"
       }
     ]
   }
