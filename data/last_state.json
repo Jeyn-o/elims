@@ -4,10 +4,10 @@
     "name": "Breakfast Club",
     "participants": 1605,
     "position": 0,
-    "score": 5888,
+    "score": 5981,
     "lives": 50,
-    "wins": 50470,
-    "losses": 35147,
+    "wins": 50755,
+    "losses": 35305,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -33,10 +33,10 @@
     "name": "Total Bankers",
     "participants": 1671,
     "position": 0,
-    "score": 3314,
+    "score": 3381,
     "lives": 50,
-    "wins": 54050,
-    "losses": 34884,
+    "wins": 54285,
+    "losses": 35010,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -62,10 +62,10 @@
     "name": "Metalheads",
     "participants": 1449,
     "position": 0,
-    "score": 2234,
+    "score": 2264,
     "lives": 50,
-    "wins": 42312,
-    "losses": 30844,
+    "wins": 42476,
+    "losses": 30949,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -89,12 +89,12 @@
   {
     "id": 49,
     "name": "Terror Bytes",
-    "participants": 1511,
+    "participants": 1510,
     "position": 0,
-    "score": 312,
+    "score": 274,
     "lives": 50,
-    "wins": 53619,
-    "losses": 49097,
+    "wins": 53845,
+    "losses": 49328,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -118,12 +118,12 @@
   {
     "id": 47,
     "name": "Murder Hornets",
-    "participants": 1499,
+    "participants": 1498,
     "position": 0,
-    "score": 79,
+    "score": 62,
     "lives": 50,
-    "wins": 45872,
-    "losses": 35757,
+    "wins": 46035,
+    "losses": 35883,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -145,130 +145,14 @@
     ]
   },
   {
-    "id": 1,
-    "name": "Pink Power",
-    "participants": 1500,
-    "position": 0,
-    "score": 63,
-    "lives": 50,
-    "wins": 48386,
-    "losses": 74474,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 1318799,
-        "name": "NightWing",
-        "active": true
-      },
-      {
-        "id": 1322136,
-        "name": "Beerstein",
-        "active": true
-      },
-      {
-        "id": 2167612,
-        "name": "Jairyll",
-        "active": true
-      }
-    ]
-  },
-  {
-    "id": 32,
-    "name": "Lumberjacks",
-    "participants": 1516,
-    "position": 0,
-    "score": 47,
-    "lives": 49,
-    "wins": 49095,
-    "losses": 61803,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 1884314,
-        "name": "MeanMike",
-        "active": true
-      },
-      {
-        "id": 2871120,
-        "name": "AtomicGarou",
-        "active": true
-      },
-      {
-        "id": 2557282,
-        "name": "Qfiffle",
-        "active": true
-      }
-    ]
-  },
-  {
-    "id": 14,
-    "name": "Pacifists",
-    "participants": 1502,
-    "position": 0,
-    "score": 35,
-    "lives": 50,
-    "wins": 45330,
-    "losses": 47190,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 1993550,
-        "name": "FidelCashflow",
-        "active": true
-      },
-      {
-        "id": 2668954,
-        "name": "Jefersonakl",
-        "active": true
-      },
-      {
-        "id": 1497907,
-        "name": "The_Boss",
-        "active": true
-      }
-    ]
-  },
-  {
-    "id": 33,
-    "name": "Team Cupcake",
-    "participants": 1513,
-    "position": 0,
-    "score": 14,
-    "lives": 50,
-    "wins": 49129,
-    "losses": 48825,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 2094410,
-        "name": "ekiM_",
-        "active": true
-      },
-      {
-        "id": 1667842,
-        "name": "Jokur",
-        "active": true
-      },
-      {
-        "id": 662171,
-        "name": "TehButler",
-        "active": true
-      }
-    ]
-  },
-  {
     "id": 34,
     "name": "Punchbags",
     "participants": 1411,
     "position": 0,
     "score": 13,
     "lives": 50,
-    "wins": 50403,
-    "losses": 53215,
+    "wins": 50632,
+    "losses": 53418,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -290,30 +174,117 @@
     ]
   },
   {
-    "id": 69,
-    "name": "Village Idiots",
-    "participants": 1495,
+    "id": 32,
+    "name": "Lumberjacks",
+    "participants": 1516,
     "position": 0,
-    "score": 1,
-    "lives": 34,
-    "wins": 29118,
-    "losses": 42253,
+    "score": 12,
+    "lives": 49,
+    "wins": 49262,
+    "losses": 62010,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
       {
-        "id": 2336292,
-        "name": "Cartel",
+        "id": 1884314,
+        "name": "MeanMike",
         "active": true
       },
       {
-        "id": 2334174,
-        "name": "CharmRiver",
+        "id": 2871120,
+        "name": "AtomicGarou",
         "active": true
       },
       {
-        "id": 2177398,
-        "name": "Vulwin",
+        "id": 2557282,
+        "name": "Qfiffle",
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Team Cupcake",
+    "participants": 1511,
+    "position": 0,
+    "score": 8,
+    "lives": 50,
+    "wins": 49322,
+    "losses": 49018,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 2094410,
+        "name": "ekiM_",
+        "active": true
+      },
+      {
+        "id": 1667842,
+        "name": "Jokur",
+        "active": true
+      },
+      {
+        "id": 662171,
+        "name": "TehButler",
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Pacifists",
+    "participants": 1501,
+    "position": 0,
+    "score": 2,
+    "lives": 50,
+    "wins": 45546,
+    "losses": 47415,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 1993550,
+        "name": "FidelCashflow",
+        "active": true
+      },
+      {
+        "id": 2668954,
+        "name": "Jefersonakl",
+        "active": true
+      },
+      {
+        "id": 1497907,
+        "name": "The_Boss",
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Pink Power",
+    "participants": 1500,
+    "position": 0,
+    "score": 1,
+    "lives": 50,
+    "wins": 48501,
+    "losses": 74670,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 1318799,
+        "name": "NightWing",
+        "active": true
+      },
+      {
+        "id": 1322136,
+        "name": "Beerstein",
+        "active": true
+      },
+      {
+        "id": 2167612,
+        "name": "Jairyll",
         "active": true
       }
     ]
@@ -321,12 +292,12 @@
   {
     "id": 50,
     "name": "Peasants",
-    "participants": 1456,
+    "participants": 1454,
     "position": 0,
-    "score": 0,
+    "score": 1,
     "lives": 38,
-    "wins": 39875,
-    "losses": 44170,
+    "wins": 39972,
+    "losses": 44354,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -343,6 +314,35 @@
       {
         "id": 3326198,
         "name": "QueenChrollo",
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Village Idiots",
+    "participants": 1491,
+    "position": 0,
+    "score": 1,
+    "lives": 34,
+    "wins": 29202,
+    "losses": 42473,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 2336292,
+        "name": "Cartel",
+        "active": true
+      },
+      {
+        "id": 2334174,
+        "name": "CharmRiver",
+        "active": true
+      },
+      {
+        "id": 2177398,
+        "name": "Vulwin",
         "active": true
       }
     ]
