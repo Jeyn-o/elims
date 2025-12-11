@@ -2,12 +2,12 @@
   {
     "id": 68,
     "name": "Metalheads",
-    "participants": 1484,
+    "participants": 1483,
     "position": 0,
-    "score": 4549,
+    "score": 4533,
     "lives": 50,
-    "wins": 30345,
-    "losses": 18709,
+    "wins": 30478,
+    "losses": 18848,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -30,10 +30,10 @@
     "name": "Breakfast Club",
     "participants": 1634,
     "position": 0,
-    "score": 4245,
+    "score": 4357,
     "lives": 50,
-    "wins": 36250,
-    "losses": 24580,
+    "wins": 36467,
+    "losses": 24666,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -54,12 +54,12 @@
   {
     "id": 52,
     "name": "Total Bankers",
-    "participants": 1690,
+    "participants": 1689,
     "position": 0,
-    "score": 3087,
+    "score": 3008,
     "lives": 50,
-    "wins": 38008,
-    "losses": 23012,
+    "wins": 38176,
+    "losses": 23234,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -78,28 +78,80 @@
     ]
   },
   {
-    "id": 50,
-    "name": "Peasants",
-    "participants": 1615,
+    "id": 49,
+    "name": "Terror Bytes",
+    "participants": 1563,
     "position": 0,
-    "score": 48,
+    "score": 44,
     "lives": 50,
-    "wins": 27657,
-    "losses": 27319,
+    "wins": 38986,
+    "losses": 36404,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
       {
-        "id": 2733267,
-        "name": "BiiGz"
+        "id": 1846075,
+        "name": "Stretch"
       },
       {
-        "id": 446605,
-        "name": "Empress_Finlia"
+        "id": 1443076,
+        "name": "Euphoria"
       },
       {
-        "id": 3326198,
-        "name": "QueenChrollo"
+        "id": 1580562,
+        "name": "LDP"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Murder Hornets",
+    "participants": 1576,
+    "position": 0,
+    "score": 44,
+    "lives": 50,
+    "wins": 33788,
+    "losses": 26379,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 2015160,
+        "name": "Andrew_616"
+      },
+      {
+        "id": 467479,
+        "name": "Leafeh"
+      },
+      {
+        "id": 2684760,
+        "name": "Deatvert"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Pink Power",
+    "participants": 1567,
+    "position": 0,
+    "score": 5,
+    "lives": 50,
+    "wins": 35617,
+    "losses": 57494,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 1318799,
+        "name": "NightWing"
+      },
+      {
+        "id": 1322136,
+        "name": "Beerstein"
+      },
+      {
+        "id": 2167612,
+        "name": "Jairyll"
       }
     ]
   },
@@ -108,10 +160,10 @@
     "name": "Village Idiots",
     "participants": 1636,
     "position": 0,
-    "score": 22,
+    "score": 5,
     "lives": 50,
-    "wins": 15119,
-    "losses": 21495,
+    "wins": 15182,
+    "losses": 21594,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -134,10 +186,10 @@
     "name": "Punchbags",
     "participants": 1496,
     "position": 0,
-    "score": 21,
+    "score": 2,
     "lives": 50,
-    "wins": 35437,
-    "losses": 39333,
+    "wins": 35611,
+    "losses": 39519,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -158,12 +210,12 @@
   {
     "id": 14,
     "name": "Pacifists",
-    "participants": 1587,
+    "participants": 1586,
     "position": 0,
-    "score": 19,
+    "score": 2,
     "lives": 50,
-    "wins": 29718,
-    "losses": 33046,
+    "wins": 29913,
+    "losses": 33252,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -182,66 +234,14 @@
     ]
   },
   {
-    "id": 32,
-    "name": "Lumberjacks",
-    "participants": 1555,
-    "position": 0,
-    "score": 5,
-    "lives": 50,
-    "wins": 33874,
-    "losses": 46357,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 1884314,
-        "name": "MeanMike"
-      },
-      {
-        "id": 2871120,
-        "name": "AtomicGarou"
-      },
-      {
-        "id": 2557282,
-        "name": "Qfiffle"
-      }
-    ]
-  },
-  {
-    "id": 49,
-    "name": "Terror Bytes",
-    "participants": 1563,
-    "position": 0,
-    "score": 3,
-    "lives": 50,
-    "wins": 38812,
-    "losses": 36274,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 1846075,
-        "name": "Stretch"
-      },
-      {
-        "id": 1443076,
-        "name": "Euphoria"
-      },
-      {
-        "id": 1580562,
-        "name": "LDP"
-      }
-    ]
-  },
-  {
     "id": 33,
     "name": "Team Cupcake",
-    "participants": 1622,
+    "participants": 1621,
     "position": 0,
-    "score": 1,
+    "score": 0,
     "lives": 50,
-    "wins": 35306,
-    "losses": 35910,
+    "wins": 35493,
+    "losses": 36086,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -260,54 +260,54 @@
     ]
   },
   {
-    "id": 1,
-    "name": "Pink Power",
-    "participants": 1567,
+    "id": 32,
+    "name": "Lumberjacks",
+    "participants": 1554,
     "position": 0,
     "score": 0,
     "lives": 50,
-    "wins": 35396,
-    "losses": 57267,
+    "wins": 33993,
+    "losses": 46504,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
       {
-        "id": 1318799,
-        "name": "NightWing"
+        "id": 1884314,
+        "name": "MeanMike"
       },
       {
-        "id": 1322136,
-        "name": "Beerstein"
+        "id": 2871120,
+        "name": "AtomicGarou"
       },
       {
-        "id": 2167612,
-        "name": "Jairyll"
+        "id": 2557282,
+        "name": "Qfiffle"
       }
     ]
   },
   {
-    "id": 47,
-    "name": "Murder Hornets",
-    "participants": 1577,
+    "id": 50,
+    "name": "Peasants",
+    "participants": 1614,
     "position": 0,
     "score": 0,
     "lives": 50,
-    "wins": 33664,
-    "losses": 26284,
+    "wins": 27892,
+    "losses": 27616,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
       {
-        "id": 2015160,
-        "name": "Andrew_616"
+        "id": 2733267,
+        "name": "BiiGz"
       },
       {
-        "id": 467479,
-        "name": "Leafeh"
+        "id": 446605,
+        "name": "Empress_Finlia"
       },
       {
-        "id": 2684760,
-        "name": "Deatvert"
+        "id": 3326198,
+        "name": "QueenChrollo"
       }
     ]
   }
