@@ -1,39 +1,13 @@
 [
   {
-    "id": 68,
-    "name": "Metalheads",
-    "participants": 1482,
-    "position": 0,
-    "score": 4505,
-    "lives": 50,
-    "wins": 30644,
-    "losses": 19018,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 876657,
-        "name": "Cheb"
-      },
-      {
-        "id": 467306,
-        "name": "Zorfar"
-      },
-      {
-        "id": 2504970,
-        "name": "Queen-Warly-Woo"
-      }
-    ]
-  },
-  {
     "id": 36,
     "name": "Breakfast Club",
     "participants": 1634,
     "position": 0,
-    "score": 4456,
+    "score": 4512,
     "lives": 50,
-    "wins": 36710,
-    "losses": 24777,
+    "wins": 36868,
+    "losses": 24871,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -52,14 +26,40 @@
     ]
   },
   {
+    "id": 68,
+    "name": "Metalheads",
+    "participants": 1480,
+    "position": 0,
+    "score": 4477,
+    "lives": 50,
+    "wins": 30803,
+    "losses": 19178,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 876657,
+        "name": "Cheb"
+      },
+      {
+        "id": 467306,
+        "name": "Zorfar"
+      },
+      {
+        "id": 2504970,
+        "name": "Queen-Warly-Woo"
+      }
+    ]
+  },
+  {
     "id": 52,
     "name": "Total Bankers",
     "participants": 1689,
     "position": 0,
-    "score": 2993,
+    "score": 2957,
     "lives": 50,
-    "wins": 38359,
-    "losses": 23397,
+    "wins": 38459,
+    "losses": 23521,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -78,66 +78,14 @@
     ]
   },
   {
-    "id": 49,
-    "name": "Terror Bytes",
-    "participants": 1562,
-    "position": 0,
-    "score": 14,
-    "lives": 50,
-    "wins": 39170,
-    "losses": 36619,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 1846075,
-        "name": "Stretch"
-      },
-      {
-        "id": 1443076,
-        "name": "Euphoria"
-      },
-      {
-        "id": 1580562,
-        "name": "LDP"
-      }
-    ]
-  },
-  {
-    "id": 34,
-    "name": "Punchbags",
-    "participants": 1494,
-    "position": 0,
-    "score": 7,
-    "lives": 50,
-    "wins": 35797,
-    "losses": 39707,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 2029519,
-        "name": "JDWV"
-      },
-      {
-        "id": 2947669,
-        "name": "BoonieSteep"
-      },
-      {
-        "id": 2259658,
-        "name": "Aleks-Wolfbird"
-      }
-    ]
-  },
-  {
     "id": 32,
     "name": "Lumberjacks",
-    "participants": 1552,
+    "participants": 1551,
     "position": 0,
-    "score": 7,
+    "score": 11,
     "lives": 50,
-    "wins": 34161,
-    "losses": 46669,
+    "wins": 34315,
+    "losses": 46802,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -156,40 +104,14 @@
     ]
   },
   {
-    "id": 50,
-    "name": "Peasants",
-    "participants": 1614,
-    "position": 0,
-    "score": 7,
-    "lives": 50,
-    "wins": 28007,
-    "losses": 27727,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 2733267,
-        "name": "BiiGz"
-      },
-      {
-        "id": 446605,
-        "name": "Empress_Finlia"
-      },
-      {
-        "id": 3326198,
-        "name": "QueenChrollo"
-      }
-    ]
-  },
-  {
     "id": 1,
     "name": "Pink Power",
     "participants": 1565,
     "position": 0,
-    "score": 4,
+    "score": 10,
     "lives": 50,
-    "wins": 35805,
-    "losses": 57790,
+    "wins": 36050,
+    "losses": 58031,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -210,12 +132,12 @@
   {
     "id": 14,
     "name": "Pacifists",
-    "participants": 1586,
+    "participants": 1584,
     "position": 0,
-    "score": 4,
+    "score": 8,
     "lives": 50,
-    "wins": 30099,
-    "losses": 33446,
+    "wins": 30287,
+    "losses": 33613,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -236,12 +158,12 @@
   {
     "id": 33,
     "name": "Team Cupcake",
-    "participants": 1621,
+    "participants": 1620,
     "position": 0,
-    "score": 3,
+    "score": 7,
     "lives": 50,
-    "wins": 35636,
-    "losses": 36245,
+    "wins": 35716,
+    "losses": 36358,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -260,28 +182,28 @@
     ]
   },
   {
-    "id": 47,
-    "name": "Murder Hornets",
-    "participants": 1574,
+    "id": 50,
+    "name": "Peasants",
+    "participants": 1614,
     "position": 0,
-    "score": 0,
+    "score": 5,
     "lives": 50,
-    "wins": 33954,
-    "losses": 26536,
+    "wins": 28129,
+    "losses": 27861,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
       {
-        "id": 2015160,
-        "name": "Andrew_616"
+        "id": 2733267,
+        "name": "BiiGz"
       },
       {
-        "id": 467479,
-        "name": "Leafeh"
+        "id": 446605,
+        "name": "Empress_Finlia"
       },
       {
-        "id": 2684760,
-        "name": "Deatvert"
+        "id": 3326198,
+        "name": "QueenChrollo"
       }
     ]
   },
@@ -290,10 +212,10 @@
     "name": "Village Idiots",
     "participants": 1636,
     "position": 0,
-    "score": 0,
+    "score": 5,
     "lives": 50,
-    "wins": 15264,
-    "losses": 21675,
+    "wins": 15303,
+    "losses": 21717,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -308,6 +230,84 @@
       {
         "id": 2177398,
         "name": "Vulwin"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Terror Bytes",
+    "participants": 1562,
+    "position": 0,
+    "score": 3,
+    "lives": 50,
+    "wins": 39326,
+    "losses": 36791,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 1846075,
+        "name": "Stretch"
+      },
+      {
+        "id": 1443076,
+        "name": "Euphoria"
+      },
+      {
+        "id": 1580562,
+        "name": "LDP"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Punchbags",
+    "participants": 1492,
+    "position": 0,
+    "score": 3,
+    "lives": 50,
+    "wins": 35929,
+    "losses": 39855,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 2029519,
+        "name": "JDWV"
+      },
+      {
+        "id": 2947669,
+        "name": "BoonieSteep"
+      },
+      {
+        "id": 2259658,
+        "name": "Aleks-Wolfbird"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Murder Hornets",
+    "participants": 1574,
+    "position": 0,
+    "score": 2,
+    "lives": 50,
+    "wins": 34079,
+    "losses": 26666,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 2015160,
+        "name": "Andrew_616"
+      },
+      {
+        "id": 467479,
+        "name": "Leafeh"
+      },
+      {
+        "id": 2684760,
+        "name": "Deatvert"
       }
     ]
   }
