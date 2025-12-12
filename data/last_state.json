@@ -4,10 +4,10 @@
     "name": "Breakfast Club",
     "participants": 1503,
     "position": 0,
-    "score": 5336,
+    "score": 5270,
     "lives": 50,
-    "wins": 84840,
-    "losses": 64843,
+    "wins": 84989,
+    "losses": 65039,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -33,10 +33,10 @@
     "name": "Lumberjacks",
     "participants": 1464,
     "position": 0,
-    "score": 3721,
+    "score": 3729,
     "lives": 49,
-    "wins": 82392,
-    "losses": 87655,
+    "wins": 82557,
+    "losses": 87785,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -60,12 +60,12 @@
   {
     "id": 52,
     "name": "Total Bankers",
-    "participants": 1608,
+    "participants": 1606,
     "position": 0,
-    "score": 2413,
+    "score": 2376,
     "lives": 50,
-    "wins": 87027,
-    "losses": 59405,
+    "wins": 87267,
+    "losses": 59593,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -91,10 +91,10 @@
     "name": "Murder Hornets",
     "participants": 1339,
     "position": 0,
-    "score": 351,
+    "score": 383,
     "lives": 49,
-    "wins": 75554,
-    "losses": 59589,
+    "wins": 75729,
+    "losses": 59708,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -120,10 +120,10 @@
     "name": "Terror Bytes",
     "participants": 1411,
     "position": 0,
-    "score": 146,
+    "score": 212,
     "lives": 50,
-    "wins": 86132,
-    "losses": 76150,
+    "wins": 86322,
+    "losses": 76250,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -147,12 +147,12 @@
   {
     "id": 68,
     "name": "Metalheads",
-    "participants": 1276,
+    "participants": 1274,
     "position": 0,
-    "score": 27,
-    "lives": 25,
-    "wins": 69897,
-    "losses": 63329,
+    "score": 23,
+    "lives": 24,
+    "wins": 70148,
+    "losses": 63586,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -178,10 +178,10 @@
     "name": "Punchbags",
     "participants": 1275,
     "position": 0,
-    "score": 3,
+    "score": 4,
     "lives": 50,
-    "wins": 80979,
-    "losses": 82219,
+    "wins": 81171,
+    "losses": 82416,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -203,30 +203,30 @@
     ]
   },
   {
-    "id": 1,
-    "name": "Pink Power",
-    "participants": 1308,
+    "id": 14,
+    "name": "Pacifists",
+    "participants": 1408,
     "position": 0,
     "score": 1,
-    "lives": 34,
-    "wins": 70381,
-    "losses": 108299,
+    "lives": 50,
+    "wins": 77875,
+    "losses": 77061,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
       {
-        "id": 1318799,
-        "name": "NightWing",
+        "id": 1993550,
+        "name": "FidelCashflow",
         "active": true
       },
       {
-        "id": 1322136,
-        "name": "Beerstein",
+        "id": 2668954,
+        "name": "Jefersonakl",
         "active": true
       },
       {
-        "id": 2167612,
-        "name": "Jairyll",
+        "id": 1497907,
+        "name": "The_Boss",
         "active": true
       }
     ]
@@ -238,8 +238,8 @@
     "position": 0,
     "score": 0,
     "lives": 50,
-    "wins": 79525,
-    "losses": 78957,
+    "wins": 79622,
+    "losses": 79131,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -261,30 +261,30 @@
     ]
   },
   {
-    "id": 14,
-    "name": "Pacifists",
-    "participants": 1409,
+    "id": 1,
+    "name": "Pink Power",
+    "participants": 1308,
     "position": 0,
     "score": 0,
-    "lives": 50,
-    "wins": 77730,
-    "losses": 76912,
+    "lives": 34,
+    "wins": 70494,
+    "losses": 108506,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
       {
-        "id": 1993550,
-        "name": "FidelCashflow",
+        "id": 1318799,
+        "name": "NightWing",
         "active": true
       },
       {
-        "id": 2668954,
-        "name": "Jefersonakl",
+        "id": 1322136,
+        "name": "Beerstein",
         "active": true
       },
       {
-        "id": 1497907,
-        "name": "The_Boss",
+        "id": 2167612,
+        "name": "Jairyll",
         "active": true
       }
     ]
