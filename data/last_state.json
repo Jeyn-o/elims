@@ -4,10 +4,10 @@
     "name": "Breakfast Club",
     "participants": 1508,
     "position": 0,
-    "score": 4662,
+    "score": 4683,
     "lives": 50,
-    "wins": 79162,
-    "losses": 60745,
+    "wins": 79374,
+    "losses": 60882,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -31,12 +31,12 @@
   {
     "id": 52,
     "name": "Total Bankers",
-    "participants": 1622,
+    "participants": 1620,
     "position": 0,
-    "score": 4254,
+    "score": 4117,
     "lives": 50,
-    "wins": 82360,
-    "losses": 54269,
+    "wins": 82560,
+    "losses": 54511,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -62,10 +62,10 @@
     "name": "Lumberjacks",
     "participants": 1468,
     "position": 0,
-    "score": 2674,
+    "score": 2679,
     "lives": 49,
-    "wins": 77407,
-    "losses": 84550,
+    "wins": 77581,
+    "losses": 84678,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -91,10 +91,10 @@
     "name": "Terror Bytes",
     "participants": 1419,
     "position": 0,
-    "score": 365,
+    "score": 382,
     "lives": 50,
-    "wins": 81443,
-    "losses": 72023,
+    "wins": 81630,
+    "losses": 72160,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -120,10 +120,10 @@
     "name": "Murder Hornets",
     "participants": 1351,
     "position": 0,
-    "score": 35,
+    "score": 113,
     "lives": 49,
-    "wins": 70238,
-    "losses": 55091,
+    "wins": 70458,
+    "losses": 55219,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -147,12 +147,12 @@
   {
     "id": 33,
     "name": "Team Cupcake",
-    "participants": 1425,
+    "participants": 1423,
     "position": 0,
-    "score": 4,
+    "score": 10,
     "lives": 50,
-    "wins": 75404,
-    "losses": 74222,
+    "wins": 75513,
+    "losses": 74378,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -174,43 +174,14 @@
     ]
   },
   {
-    "id": 14,
-    "name": "Pacifists",
-    "participants": 1427,
-    "position": 0,
-    "score": 4,
-    "lives": 50,
-    "wins": 72756,
-    "losses": 71912,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 1993550,
-        "name": "FidelCashflow",
-        "active": true
-      },
-      {
-        "id": 2668954,
-        "name": "Jefersonakl",
-        "active": true
-      },
-      {
-        "id": 1497907,
-        "name": "The_Boss",
-        "active": true
-      }
-    ]
-  },
-  {
     "id": 34,
     "name": "Punchbags",
-    "participants": 1302,
+    "participants": 1301,
     "position": 0,
-    "score": 0,
+    "score": 8,
     "lives": 50,
-    "wins": 76618,
-    "losses": 77983,
+    "wins": 76780,
+    "losses": 78133,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -232,14 +203,43 @@
     ]
   },
   {
+    "id": 14,
+    "name": "Pacifists",
+    "participants": 1427,
+    "position": 0,
+    "score": 6,
+    "lives": 50,
+    "wins": 72890,
+    "losses": 72036,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 1993550,
+        "name": "FidelCashflow",
+        "active": true
+      },
+      {
+        "id": 2668954,
+        "name": "Jefersonakl",
+        "active": true
+      },
+      {
+        "id": 1497907,
+        "name": "The_Boss",
+        "active": true
+      }
+    ]
+  },
+  {
     "id": 1,
     "name": "Pink Power",
-    "participants": 1344,
+    "participants": 1343,
     "position": 0,
     "score": 0,
-    "lives": 41,
-    "wins": 67279,
-    "losses": 102673,
+    "lives": 40,
+    "wins": 67403,
+    "losses": 102931,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -263,12 +263,12 @@
   {
     "id": 68,
     "name": "Metalheads",
-    "participants": 1310,
+    "participants": 1309,
     "position": 0,
     "score": 0,
     "lives": 35,
-    "wins": 66100,
-    "losses": 58200,
+    "wins": 66214,
+    "losses": 58376,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
