@@ -1,0 +1,700 @@
+14922 - Charbon
+Attacks won: 611
+Attacks lost: 160
+Hosps: 350
+Cans: 6
+Travels: 6
+
+182040 - Excaliber_13
+Attacks won: 3160
+Attacks lost: 238
+Hosps: 648
+Cans: 56
+Travels: 971
+
+442690 - BeardedBenny
+Attacks won: 4430
+Attacks lost: 1416
+Hosps: 3546
+Cans: 18
+Travels: 391
+
+446596 - Bucki
+Attacks won: 3663
+Attacks lost: 973
+Hosps: 2564
+Cans: 136
+Travels: 638
+
+517163 - poik9
+Attacks won: 589
+Attacks lost: 64
+Hosps: 139
+Cans: 122
+Travels: 61
+
+541960 - Davie_Corleone
+Attacks won: 20
+Attacks lost: 1
+Hosps: 5
+Cans: 0
+Travels: 2
+
+914683 - Droq
+Attacks won: 3730
+Attacks lost: 716
+Hosps: 2027
+Cans: 346
+Travels: 435
+
+1166445 - Top
+Attacks won: 9837
+Attacks lost: 1094
+Hosps: 3089
+Cans: 2159
+Travels: 2831
+
+1184733 - Pro_eobard
+Attacks won: 624
+Attacks lost: 418
+Hosps: 927
+Cans: 81
+Travels: 4
+
+1300665 - Savoie
+Attacks won: 795
+Attacks lost: 171
+Hosps: 351
+Cans: 0
+Travels: 2
+
+1387584 - ---GHOST---
+Attacks won: 181
+Attacks lost: 161
+Hosps: 418
+Cans: 2
+Travels: 1
+
+1897963 - gypo
+Attacks won: 1291
+Attacks lost: 122
+Hosps: 421
+Cans: 8
+Travels: 441
+
+1946159 - smyles
+Attacks won: 3849
+Attacks lost: 932
+Hosps: 2266
+Cans: 8
+Travels: 396
+
+2069227 - GOTOYOURHOME
+Attacks won: 13388
+Attacks lost: 817
+Hosps: 2820
+Cans: 967
+Travels: 1855
+
+2080816 - Weasel
+Attacks won: 1763
+Attacks lost: 458
+Hosps: 1199
+Cans: 19
+Travels: 71
+
+2154655 - Khana
+Attacks won: 1826
+Attacks lost: 323
+Hosps: 984
+Cans: 7
+Travels: 258
+
+2162860 - daddyg
+Attacks won: 19073
+Attacks lost: 1490
+Hosps: 4263
+Cans: 297
+Travels: 12656
+
+2184227 - SassyMcSlacker
+Attacks won: 10675
+Attacks lost: 385
+Hosps: 1522
+Cans: 1866
+Travels: 3340
+
+2250222 - Ronskip
+Attacks won: 4499
+Attacks lost: 958
+Hosps: 2076
+Cans: 71
+Travels: 1630
+
+2289809 - Murder_Hobo
+Attacks won: 3347
+Attacks lost: 1180
+Hosps: 2775
+Cans: 362
+Travels: 297
+
+2291737 - Special-Needs
+Attacks won: 2424
+Attacks lost: 756
+Hosps: 1726
+Cans: 99
+Travels: 506
+
+2302062 - BoozHound
+Attacks won: 5067
+Attacks lost: 706
+Hosps: 11739
+Cans: 80
+Travels: 4253
+
+2315415 - Litri
+Attacks won: 5436
+Attacks lost: 805
+Hosps: 1901
+Cans: 358
+Travels: 440
+
+2325329 - Crispyfoot
+Attacks won: 4308
+Attacks lost: 1521
+Hosps: 3545
+Cans: 64
+Travels: 1012
+
+2335586 - Poundthatass
+Attacks won: 11379
+Attacks lost: 1411
+Hosps: 9193
+Cans: 211
+Travels: 6394
+
+2408196 - iam3vaj
+Attacks won: 9398
+Attacks lost: 1452
+Hosps: 3820
+Cans: 657
+Travels: 1200
+
+2414438 - Caross
+Attacks won: 4266
+Attacks lost: 1053
+Hosps: 2320
+Cans: 108
+Travels: 790
+
+2418838 - Meeip
+Attacks won: 6150
+Attacks lost: 938
+Hosps: 2458
+Cans: 101
+Travels: 1057
+
+2419133 - Jeyno
+Attacks won: 10868
+Attacks lost: 1621
+Hosps: 3619
+Cans: 150
+Travels: 2136
+
+2427687 - Jubjub82180
+Attacks won: 8887
+Attacks lost: 953
+Hosps: 2714
+Cans: 137
+Travels: 2687
+
+2541399 - Theurgy
+Attacks won: 9308
+Attacks lost: 1801
+Hosps: 4273
+Cans: 193
+Travels: 2127
+
+2583853 - frkn
+Attacks won: 6036
+Attacks lost: 2138
+Hosps: 5231
+Cans: 58
+Travels: 819
+
+2621654 - Hstains
+Attacks won: 9054
+Attacks lost: 842
+Hosps: 2332
+Cans: 254
+Travels: 2904
+
+2647214 - Balgor
+Attacks won: 547
+Attacks lost: 276
+Hosps: 604
+Cans: 33
+Travels: 1002
+
+2655203 - Vampire-Catgirl
+Attacks won: 3233
+Attacks lost: 214
+Hosps: 557
+Cans: 164
+Travels: 157
+
+2659592 - HanXeng
+Attacks won: 358
+Attacks lost: 101
+Hosps: 298
+Cans: 2
+Travels: 158
+
+2671530 - windyswag
+Attacks won: 6811
+Attacks lost: 1341
+Hosps: 3847
+Cans: 84
+Travels: 1748
+
+2671608 - AlfieG
+Attacks won: 5389
+Attacks lost: 1445
+Hosps: 3473
+Cans: 28
+Travels: 36
+
+2675301 - ExiledAstronaut
+Attacks won: 7471
+Attacks lost: 1248
+Hosps: 3434
+Cans: 11
+Travels: 1059
+
+2677851 - Morot
+Attacks won: 1239
+Attacks lost: 199
+Hosps: 574
+Cans: 0
+Travels: 679
+
+2679269 - TsanMan
+Attacks won: 6985
+Attacks lost: 391
+Hosps: 1445
+Cans: 564
+Travels: 107
+
+2680449 - BattlePrincess
+Attacks won: 3373
+Attacks lost: 1005
+Hosps: 2277
+Cans: 50
+Travels: 132
+
+2730718 - Haungpeary
+Attacks won: 4908
+Attacks lost: 1040
+Hosps: 2633
+Cans: 15
+Travels: 1049
+
+2736671 - Twitt3y
+Attacks won: 3716
+Attacks lost: 937
+Hosps: 2328
+Cans: 263
+Travels: 358
+
+2740246 - Bub92278
+Attacks won: 23409
+Attacks lost: 1300
+Hosps: 3925
+Cans: 1058
+Travels: 4865
+
+2801440 - joschlumpf
+Attacks won: 5994
+Attacks lost: 906
+Hosps: 2272
+Cans: 82
+Travels: 3184
+
+2802632 - Hoboblue
+Attacks won: 6690
+Attacks lost: 1343
+Hosps: 3254
+Cans: 163
+Travels: 2054
+
+2835333 - Somnum
+Attacks won: 0
+Attacks lost: 2
+Hosps: 4
+Cans: 0
+Travels: 1
+
+2914279 - emp0p
+Attacks won: 77
+Attacks lost: 13
+Hosps: 34
+Cans: 17
+Travels: 5
+
+2920790 - Shimmer12
+Attacks won: 1801
+Attacks lost: 202
+Hosps: 501
+Cans: 43
+Travels: 50
+
+2932114 - Nitrx
+Attacks won: 306
+Attacks lost: 39
+Hosps: 103
+Cans: 0
+Travels: 169
+
+2937449 - Piraterer
+Attacks won: 6552
+Attacks lost: 900
+Hosps: 2166
+Cans: 39
+Travels: 1471
+
+3018158 - Stevan01
+Attacks won: 3850
+Attacks lost: 696
+Hosps: 2061
+Cans: 18
+Travels: 1742
+
+3026725 - Neodork
+Attacks won: 4541
+Attacks lost: 556
+Hosps: 1354
+Cans: 1
+Travels: 528
+
+3028402 - Benji_beanz
+Attacks won: 701
+Attacks lost: 554
+Hosps: 1238
+Cans: 20
+Travels: 250
+
+3116621 - BBCliff
+Attacks won: 4068
+Attacks lost: 1008
+Hosps: 2345
+Cans: 7
+Travels: 1959
+
+3139132 - JuanPaulo
+Attacks won: 2877
+Attacks lost: 497
+Hosps: 1155
+Cans: 5
+Travels: 781
+
+3160215 - Anri_of_Astora
+Attacks won: 3162
+Attacks lost: 336
+Hosps: 965
+Cans: 65
+Travels: 892
+
+3161450 - Rubadubb
+Attacks won: 1244
+Attacks lost: 178
+Hosps: 447
+Cans: 0
+Travels: 610
+
+3178876 - Khallie
+Attacks won: 400
+Attacks lost: 137
+Hosps: 305
+Cans: 0
+Travels: 137
+
+3193353 - xyicah
+Attacks won: 4358
+Attacks lost: 638
+Hosps: 1605
+Cans: 371
+Travels: 3058
+
+3231991 - Osein
+Attacks won: 51
+Attacks lost: 47
+Hosps: 97
+Cans: 52
+Travels: 13
+
+3292894 - VEGABABY
+Attacks won: 5182
+Attacks lost: 440
+Hosps: 1119
+Cans: 9
+Travels: 1036
+
+3301215 - Semykreen
+Attacks won: 3161
+Attacks lost: 270
+Hosps: 790
+Cans: 14
+Travels: 2735
+
+3322561 - Eudoralero
+Attacks won: 2
+Attacks lost: 3
+Hosps: 6
+Cans: 0
+Travels: 6
+
+3342314 - Krytical
+Attacks won: 3615
+Attacks lost: 555
+Hosps: 1182
+Cans: 1552
+Travels: 24
+
+3343429 - Znowhite
+Attacks won: 4654
+Attacks lost: 451
+Hosps: 1162
+Cans: 8
+Travels: 1418
+
+3348136 - shrigma
+Attacks won: 2054
+Attacks lost: 240
+Hosps: 926
+Cans: 16
+Travels: 509
+
+3372361 - Ieatpaper
+Attacks won: 0
+Attacks lost: 0
+Hosps: 0
+Cans: 0
+Travels: 0
+
+3442152 - Lockets
+Attacks won: 1733
+Attacks lost: 497
+Hosps: 1462
+Cans: 18
+Travels: 1027
+
+3447443 - Jordanw1
+Attacks won: 1341
+Attacks lost: 218
+Hosps: 500
+Cans: 0
+Travels: 310
+
+3449771 - Driccy
+Attacks won: 3438
+Attacks lost: 265
+Hosps: 733
+Cans: 74
+Travels: 1437
+
+3476243 - BadalaKingkong
+Attacks won: 3705
+Attacks lost: 425
+Hosps: 954
+Cans: 10
+Travels: 1333
+
+3540076 - Mr_jeff14574
+Attacks won: 2753
+Attacks lost: 456
+Hosps: 1526
+Cans: 15
+Travels: 751
+
+3575675 - highfishM
+Attacks won: 1577
+Attacks lost: 246
+Hosps: 599
+Cans: 18
+Travels: 634
+
+3619214 - GoldenVirginia
+Attacks won: 342
+Attacks lost: 78
+Hosps: 166
+Cans: 28
+Travels: 56
+
+3625719 - Raie
+Attacks won: 1602
+Attacks lost: 326
+Hosps: 757
+Cans: 0
+Travels: 674
+
+3628419 - Littlegman212
+Attacks won: 613
+Attacks lost: 230
+Hosps: 701
+Cans: 21
+Travels: 14
+
+3656242 - jonasgrind
+Attacks won: 914
+Attacks lost: 82
+Hosps: 215
+Cans: 30
+Travels: 331
+
+3679190 - RubyFalls
+Attacks won: 1843
+Attacks lost: 246
+Hosps: 660
+Cans: 29
+Travels: 1238
+
+3680760 - Friendly_Derek
+Attacks won: 0
+Attacks lost: 0
+Hosps: 0
+Cans: 0
+Travels: 0
+
+3703949 - Downtowndave20
+Attacks won: 601
+Attacks lost: 125
+Hosps: 295
+Cans: 0
+Travels: 279
+
+3759168 - AIshen
+Attacks won: 941
+Attacks lost: 1291
+Hosps: 3341
+Cans: 7
+Travels: 454
+
+3805208 - AuntGoo
+Attacks won: 702
+Attacks lost: 192
+Hosps: 514
+Cans: 1
+Travels: 126
+
+3838394 - Retr0Rat
+Attacks won: 0
+Attacks lost: 0
+Hosps: 0
+Cans: 0
+Travels: 0
+
+3838831 - Lev_Bron
+Attacks won: 350
+Attacks lost: 108
+Hosps: 231
+Cans: 0
+Travels: 163
+
+3841404 - Sleepy_Skyes
+Attacks won: 488
+Attacks lost: 117
+Hosps: 311
+Cans: 15
+Travels: 28
+
+3851236 - Psyden
+Attacks won: 841
+Attacks lost: 162
+Hosps: 429
+Cans: 0
+Travels: 71
+
+3852779 - DMG-
+Attacks won: 571
+Attacks lost: 144
+Hosps: 329
+Cans: 0
+Travels: 192
+
+3877112 - McJoey
+Attacks won: 1055
+Attacks lost: 103
+Hosps: 321
+Cans: 0
+Travels: 397
+
+3900691 - Akytaro
+Attacks won: 524
+Attacks lost: 125
+Hosps: 314
+Cans: 0
+Travels: 253
+
+3903942 - RouRonin
+Attacks won: 54
+Attacks lost: 6
+Hosps: 24
+Cans: 0
+Travels: 100
+
+3915266 - Lucifixion
+Attacks won: 233
+Attacks lost: 87
+Hosps: 190
+Cans: 0
+Travels: 105
+
+3932437 - Stealthination
+Attacks won: 91
+Attacks lost: 60
+Hosps: 135
+Cans: 0
+Travels: 14
+
+3937363 - jGafito
+Attacks won: 62
+Attacks lost: 21
+Hosps: 53
+Cans: 0
+Travels: 48
+
+3943448 - Maddog1997
+Attacks won: 507
+Attacks lost: 128
+Hosps: 314
+Cans: 0
+Travels: 184
+
+3945856 - Rey2Fly
+Attacks won: 507
+Attacks lost: 172
+Hosps: 387
+Cans: 0
+Travels: 148
+
+3967366 - Icks-B
+Attacks won: 532
+Attacks lost: 58
+Hosps: 194
+Cans: 4
+Travels: 226
+
+3973984 - ssodon
+Attacks won: 24
+Attacks lost: 45
+Hosps: 133
+Cans: 4
+Travels: 98
+
+3977638 - Vasavi_shakti
+Attacks won: 529
+Attacks lost: 57
+Hosps: 131
+Cans: 0
+Travels: 12
+
