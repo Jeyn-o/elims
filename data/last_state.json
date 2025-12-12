@@ -4,10 +4,10 @@
     "name": "Breakfast Club",
     "participants": 1506,
     "position": 0,
-    "score": 4859,
+    "score": 4844,
     "lives": 50,
-    "wins": 80219,
-    "losses": 61446,
+    "wins": 80375,
+    "losses": 61601,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -33,10 +33,10 @@
     "name": "Total Bankers",
     "participants": 1618,
     "position": 0,
-    "score": 3863,
+    "score": 3764,
     "lives": 50,
-    "wins": 83187,
-    "losses": 55219,
+    "wins": 83378,
+    "losses": 55473,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -62,10 +62,10 @@
     "name": "Lumberjacks",
     "participants": 1467,
     "position": 0,
-    "score": 2892,
+    "score": 2928,
     "lives": 49,
-    "wins": 78357,
-    "losses": 85129,
+    "wins": 78523,
+    "losses": 85244,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -91,10 +91,10 @@
     "name": "Terror Bytes",
     "participants": 1418,
     "position": 0,
-    "score": 260,
+    "score": 223,
     "lives": 50,
-    "wins": 82313,
-    "losses": 72843,
+    "wins": 82518,
+    "losses": 73064,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -120,10 +120,10 @@
     "name": "Murder Hornets",
     "participants": 1350,
     "position": 0,
-    "score": 118,
+    "score": 178,
     "lives": 49,
-    "wins": 71226,
-    "losses": 55938,
+    "wins": 71484,
+    "losses": 56131,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -145,14 +145,43 @@
     ]
   },
   {
+    "id": 33,
+    "name": "Team Cupcake",
+    "participants": 1421,
+    "position": 0,
+    "score": 31,
+    "lives": 50,
+    "wins": 76457,
+    "losses": 75333,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 2094410,
+        "name": "ekiM_",
+        "active": true
+      },
+      {
+        "id": 1667842,
+        "name": "Jokur",
+        "active": true
+      },
+      {
+        "id": 662171,
+        "name": "TehButler",
+        "active": true
+      }
+    ]
+  },
+  {
     "id": 14,
     "name": "Pacifists",
     "participants": 1426,
     "position": 0,
-    "score": 4,
+    "score": 23,
     "lives": 50,
-    "wins": 73595,
-    "losses": 72749,
+    "wins": 73781,
+    "losses": 72913,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -176,12 +205,12 @@
   {
     "id": 34,
     "name": "Punchbags",
-    "participants": 1292,
+    "participants": 1290,
     "position": 0,
-    "score": 1,
+    "score": 4,
     "lives": 50,
-    "wins": 77463,
-    "losses": 78775,
+    "wins": 77607,
+    "losses": 78913,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -203,43 +232,14 @@
     ]
   },
   {
-    "id": 33,
-    "name": "Team Cupcake",
-    "participants": 1423,
-    "position": 0,
-    "score": 1,
-    "lives": 50,
-    "wins": 76249,
-    "losses": 75141,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 2094410,
-        "name": "ekiM_",
-        "active": true
-      },
-      {
-        "id": 1667842,
-        "name": "Jokur",
-        "active": true
-      },
-      {
-        "id": 662171,
-        "name": "TehButler",
-        "active": true
-      }
-    ]
-  },
-  {
     "id": 1,
     "name": "Pink Power",
-    "participants": 1337,
+    "participants": 1336,
     "position": 0,
-    "score": 0,
-    "lives": 38,
-    "wins": 67841,
-    "losses": 103744,
+    "score": 3,
+    "lives": 37,
+    "wins": 68011,
+    "losses": 103973,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -263,12 +263,12 @@
   {
     "id": 68,
     "name": "Metalheads",
-    "participants": 1303,
+    "participants": 1302,
     "position": 0,
     "score": 0,
     "lives": 35,
-    "wins": 66715,
-    "losses": 59082,
+    "wins": 66894,
+    "losses": 59284,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
