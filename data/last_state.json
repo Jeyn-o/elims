@@ -2,12 +2,12 @@
   {
     "id": 52,
     "name": "Total Bankers",
-    "participants": 1643,
+    "participants": 1642,
     "position": 0,
-    "score": 5580,
+    "score": 5531,
     "lives": 50,
-    "wins": 69787,
-    "losses": 44330,
+    "wins": 69956,
+    "losses": 44491,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -31,12 +31,12 @@
   {
     "id": 36,
     "name": "Breakfast Club",
-    "participants": 1565,
+    "participants": 1564,
     "position": 0,
-    "score": 5493,
+    "score": 5422,
     "lives": 50,
-    "wins": 65624,
-    "losses": 48495,
+    "wins": 65802,
+    "losses": 48711,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -58,43 +58,14 @@
     ]
   },
   {
-    "id": 47,
-    "name": "Murder Hornets",
-    "participants": 1402,
-    "position": 0,
-    "score": 374,
-    "lives": 50,
-    "wins": 58149,
-    "losses": 44591,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 2015160,
-        "name": "Andrew_616",
-        "active": true
-      },
-      {
-        "id": 467479,
-        "name": "Leafeh",
-        "active": true
-      },
-      {
-        "id": 2684760,
-        "name": "Deatvert",
-        "active": true
-      }
-    ]
-  },
-  {
     "id": 32,
     "name": "Lumberjacks",
     "participants": 1488,
     "position": 0,
-    "score": 365,
+    "score": 444,
     "lives": 49,
-    "wins": 63818,
-    "losses": 75394,
+    "wins": 64023,
+    "losses": 75493,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -116,14 +87,43 @@
     ]
   },
   {
+    "id": 47,
+    "name": "Murder Hornets",
+    "participants": 1400,
+    "position": 0,
+    "score": 379,
+    "lives": 50,
+    "wins": 58277,
+    "losses": 44658,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 2015160,
+        "name": "Andrew_616",
+        "active": true
+      },
+      {
+        "id": 467479,
+        "name": "Leafeh",
+        "active": true
+      },
+      {
+        "id": 2684760,
+        "name": "Deatvert",
+        "active": true
+      }
+    ]
+  },
+  {
     "id": 49,
     "name": "Terror Bytes",
     "participants": 1448,
     "position": 0,
-    "score": 93,
+    "score": 138,
     "lives": 50,
-    "wins": 67721,
-    "losses": 61236,
+    "wins": 67937,
+    "losses": 61348,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -145,43 +145,14 @@
     ]
   },
   {
-    "id": 33,
-    "name": "Team Cupcake",
-    "participants": 1455,
-    "position": 0,
-    "score": 61,
-    "lives": 50,
-    "wins": 63092,
-    "losses": 61830,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 2094410,
-        "name": "ekiM_",
-        "active": true
-      },
-      {
-        "id": 1667842,
-        "name": "Jokur",
-        "active": true
-      },
-      {
-        "id": 662171,
-        "name": "TehButler",
-        "active": true
-      }
-    ]
-  },
-  {
     "id": 14,
     "name": "Pacifists",
     "participants": 1457,
     "position": 0,
-    "score": 22,
+    "score": 32,
     "lives": 50,
-    "wins": 60395,
-    "losses": 60525,
+    "wins": 60614,
+    "losses": 60695,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -203,14 +174,43 @@
     ]
   },
   {
+    "id": 33,
+    "name": "Team Cupcake",
+    "participants": 1455,
+    "position": 0,
+    "score": 26,
+    "lives": 50,
+    "wins": 63239,
+    "losses": 62016,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 2094410,
+        "name": "ekiM_",
+        "active": true
+      },
+      {
+        "id": 1667842,
+        "name": "Jokur",
+        "active": true
+      },
+      {
+        "id": 662171,
+        "name": "TehButler",
+        "active": true
+      }
+    ]
+  },
+  {
     "id": 34,
     "name": "Punchbags",
     "participants": 1355,
     "position": 0,
-    "score": 6,
+    "score": 16,
     "lives": 50,
-    "wins": 64317,
-    "losses": 66637,
+    "wins": 64497,
+    "losses": 66817,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -232,43 +232,14 @@
     ]
   },
   {
-    "id": 68,
-    "name": "Metalheads",
-    "participants": 1381,
-    "position": 0,
-    "score": 4,
-    "lives": 46,
-    "wins": 54009,
-    "losses": 43714,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 876657,
-        "name": "Cheb",
-        "active": true
-      },
-      {
-        "id": 467306,
-        "name": "Zorfar",
-        "active": true
-      },
-      {
-        "id": 2504970,
-        "name": "Queen-Warly-Woo",
-        "active": true
-      }
-    ]
-  },
-  {
     "id": 50,
     "name": "Peasants",
-    "participants": 1331,
+    "participants": 1330,
     "position": 0,
-    "score": 1,
+    "score": 6,
     "lives": 27,
-    "wins": 49042,
-    "losses": 59661,
+    "wins": 49242,
+    "losses": 59898,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -290,14 +261,43 @@
     ]
   },
   {
+    "id": 68,
+    "name": "Metalheads",
+    "participants": 1380,
+    "position": 0,
+    "score": 5,
+    "lives": 46,
+    "wins": 54228,
+    "losses": 43893,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 876657,
+        "name": "Cheb",
+        "active": true
+      },
+      {
+        "id": 467306,
+        "name": "Zorfar",
+        "active": true
+      },
+      {
+        "id": 2504970,
+        "name": "Queen-Warly-Woo",
+        "active": true
+      }
+    ]
+  },
+  {
     "id": 1,
     "name": "Pink Power",
-    "participants": 1431,
+    "participants": 1430,
     "position": 0,
     "score": 0,
-    "lives": 50,
-    "wins": 59182,
-    "losses": 86544,
+    "lives": 49,
+    "wins": 59291,
+    "losses": 86907,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
