@@ -4,10 +4,10 @@
     "name": "Lumberjacks",
     "participants": 1461,
     "position": 0,
-    "score": 4302,
+    "score": 4363,
     "lives": 49,
-    "wins": 86666,
-    "losses": 90672,
+    "wins": 86846,
+    "losses": 90773,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -31,12 +31,12 @@
   {
     "id": 36,
     "name": "Breakfast Club",
-    "participants": 1495,
+    "participants": 1494,
     "position": 0,
-    "score": 3980,
+    "score": 3949,
     "lives": 50,
-    "wins": 88644,
-    "losses": 69367,
+    "wins": 88810,
+    "losses": 69537,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -62,10 +62,10 @@
     "name": "Total Bankers",
     "participants": 1586,
     "position": 0,
-    "score": 2553,
+    "score": 2568,
     "lives": 50,
-    "wins": 91255,
-    "losses": 62527,
+    "wins": 91417,
+    "losses": 62610,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -91,10 +91,10 @@
     "name": "Murder Hornets",
     "participants": 1331,
     "position": 0,
-    "score": 963,
+    "score": 839,
     "lives": 49,
-    "wins": 79912,
-    "losses": 62829,
+    "wins": 80030,
+    "losses": 63052,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -120,10 +120,10 @@
     "name": "Terror Bytes",
     "participants": 1397,
     "position": 0,
-    "score": 148,
+    "score": 152,
     "lives": 50,
-    "wins": 90455,
-    "losses": 79784,
+    "wins": 90661,
+    "losses": 79958,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -149,10 +149,10 @@
     "name": "Punchbags",
     "participants": 1256,
     "position": 0,
-    "score": 26,
+    "score": 109,
     "lives": 50,
-    "wins": 84597,
-    "losses": 85819,
+    "wins": 84859,
+    "losses": 85989,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -176,12 +176,12 @@
   {
     "id": 14,
     "name": "Pacifists",
-    "participants": 1399,
+    "participants": 1397,
     "position": 0,
-    "score": 19,
+    "score": 12,
     "lives": 50,
-    "wins": 81394,
-    "losses": 80654,
+    "wins": 81560,
+    "losses": 80816,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -203,43 +203,14 @@
     ]
   },
   {
-    "id": 33,
-    "name": "Team Cupcake",
-    "participants": 1391,
-    "position": 0,
-    "score": 3,
-    "lives": 48,
-    "wins": 83088,
-    "losses": 83086,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 2094410,
-        "name": "ekiM_",
-        "active": true
-      },
-      {
-        "id": 1667842,
-        "name": "Jokur",
-        "active": true
-      },
-      {
-        "id": 662171,
-        "name": "TehButler",
-        "active": true
-      }
-    ]
-  },
-  {
     "id": 68,
     "name": "Metalheads",
-    "participants": 1250,
+    "participants": 1249,
     "position": 0,
-    "score": 3,
+    "score": 6,
     "lives": 21,
-    "wins": 73973,
-    "losses": 68182,
+    "wins": 74097,
+    "losses": 68339,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -261,14 +232,43 @@
     ]
   },
   {
+    "id": 33,
+    "name": "Team Cupcake",
+    "participants": 1390,
+    "position": 0,
+    "score": 0,
+    "lives": 48,
+    "wins": 83197,
+    "losses": 83259,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 2094410,
+        "name": "ekiM_",
+        "active": true
+      },
+      {
+        "id": 1667842,
+        "name": "Jokur",
+        "active": true
+      },
+      {
+        "id": 662171,
+        "name": "TehButler",
+        "active": true
+      }
+    ]
+  },
+  {
     "id": 1,
     "name": "Pink Power",
-    "participants": 1279,
+    "participants": 1277,
     "position": 0,
-    "score": 1,
+    "score": 0,
     "lives": 24,
-    "wins": 73129,
-    "losses": 113094,
+    "wins": 73198,
+    "losses": 113243,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
