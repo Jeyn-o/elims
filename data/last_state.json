@@ -2,12 +2,12 @@
   {
     "id": 52,
     "name": "Total Bankers",
-    "participants": 1559,
+    "participants": 1558,
     "position": 0,
-    "score": 3547,
+    "score": 3477,
     "lives": 50,
-    "wins": 104758,
-    "losses": 71537,
+    "wins": 104923,
+    "losses": 71715,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -31,12 +31,12 @@
   {
     "id": 36,
     "name": "Breakfast Club",
-    "participants": 1475,
+    "participants": 1473,
     "position": 0,
-    "score": 3190,
+    "score": 3131,
     "lives": 50,
-    "wins": 102359,
-    "losses": 81373,
+    "wins": 102515,
+    "losses": 81543,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -62,10 +62,10 @@
     "name": "Murder Hornets",
     "participants": 1301,
     "position": 0,
-    "score": 2958,
+    "score": 3039,
     "lives": 48,
-    "wins": 93472,
-    "losses": 73114,
+    "wins": 93677,
+    "losses": 73172,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -89,12 +89,12 @@
   {
     "id": 49,
     "name": "Terror Bytes",
-    "participants": 1374,
+    "participants": 1373,
     "position": 0,
-    "score": 1416,
+    "score": 1540,
     "lives": 50,
-    "wins": 104483,
-    "losses": 90605,
+    "wins": 104715,
+    "losses": 90655,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -120,10 +120,10 @@
     "name": "Lumberjacks",
     "participants": 1452,
     "position": 0,
-    "score": 876,
+    "score": 762,
     "lives": 49,
-    "wins": 99521,
-    "losses": 104814,
+    "wins": 99649,
+    "losses": 105006,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -145,72 +145,14 @@
     ]
   },
   {
-    "id": 14,
-    "name": "Pacifists",
-    "participants": 1357,
-    "position": 0,
-    "score": 5,
-    "lives": 49,
-    "wins": 94229,
-    "losses": 93173,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 1993550,
-        "name": "FidelCashflow",
-        "active": true
-      },
-      {
-        "id": 2668954,
-        "name": "Jefersonakl",
-        "active": true
-      },
-      {
-        "id": 1497907,
-        "name": "The_Boss",
-        "active": true
-      }
-    ]
-  },
-  {
-    "id": 68,
-    "name": "Metalheads",
-    "participants": 1207,
-    "position": 0,
-    "score": 4,
-    "lives": 9,
-    "wins": 85184,
-    "losses": 83212,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 876657,
-        "name": "Cheb",
-        "active": true
-      },
-      {
-        "id": 467306,
-        "name": "Zorfar",
-        "active": true
-      },
-      {
-        "id": 2504970,
-        "name": "Queen-Warly-Woo",
-        "active": true
-      }
-    ]
-  },
-  {
     "id": 34,
     "name": "Punchbags",
     "participants": 1196,
     "position": 0,
-    "score": 1,
+    "score": 28,
     "lives": 42,
-    "wins": 96265,
-    "losses": 98743,
+    "wins": 96415,
+    "losses": 98923,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -232,14 +174,43 @@
     ]
   },
   {
+    "id": 14,
+    "name": "Pacifists",
+    "participants": 1355,
+    "position": 0,
+    "score": 21,
+    "lives": 49,
+    "wins": 94367,
+    "losses": 93333,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 1993550,
+        "name": "FidelCashflow",
+        "active": true
+      },
+      {
+        "id": 2668954,
+        "name": "Jefersonakl",
+        "active": true
+      },
+      {
+        "id": 1497907,
+        "name": "The_Boss",
+        "active": true
+      }
+    ]
+  },
+  {
     "id": 33,
     "name": "Team Cupcake",
-    "participants": 1346,
+    "participants": 1345,
     "position": 0,
-    "score": 1,
+    "score": 0,
     "lives": 41,
-    "wins": 94820,
-    "losses": 97182,
+    "wins": 94970,
+    "losses": 97457,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -256,6 +227,35 @@
       {
         "id": 662171,
         "name": "TehButler",
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Metalheads",
+    "participants": 1205,
+    "position": 0,
+    "score": 0,
+    "lives": 8,
+    "wins": 85341,
+    "losses": 83430,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 876657,
+        "name": "Cheb",
+        "active": true
+      },
+      {
+        "id": 467306,
+        "name": "Zorfar",
+        "active": true
+      },
+      {
+        "id": 2504970,
+        "name": "Queen-Warly-Woo",
         "active": true
       }
     ]
