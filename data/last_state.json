@@ -2,12 +2,12 @@
   {
     "id": 52,
     "name": "Total Bankers",
-    "participants": 1569,
+    "participants": 1568,
     "position": 0,
-    "score": 4054,
+    "score": 4030,
     "lives": 50,
-    "wins": 100771,
-    "losses": 68099,
+    "wins": 100935,
+    "losses": 68253,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -31,12 +31,12 @@
   {
     "id": 36,
     "name": "Breakfast Club",
-    "participants": 1482,
+    "participants": 1481,
     "position": 0,
-    "score": 3711,
+    "score": 3731,
     "lives": 50,
-    "wins": 98746,
-    "losses": 78084,
+    "wins": 98910,
+    "losses": 78191,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -62,10 +62,10 @@
     "name": "Lumberjacks",
     "participants": 1455,
     "position": 0,
-    "score": 2882,
+    "score": 2766,
     "lives": 49,
-    "wins": 96398,
-    "losses": 100464,
+    "wins": 96517,
+    "losses": 100673,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -91,10 +91,10 @@
     "name": "Murder Hornets",
     "participants": 1307,
     "position": 0,
-    "score": 1164,
+    "score": 1283,
     "lives": 48,
-    "wins": 89406,
-    "losses": 71255,
+    "wins": 89621,
+    "losses": 71335,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -120,10 +120,10 @@
     "name": "Terror Bytes",
     "participants": 1383,
     "position": 0,
-    "score": 146,
+    "score": 183,
     "lives": 50,
-    "wins": 100377,
-    "losses": 88576,
+    "wins": 100525,
+    "losses": 88674,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -145,30 +145,30 @@
     ]
   },
   {
-    "id": 33,
-    "name": "Team Cupcake",
-    "participants": 1360,
+    "id": 34,
+    "name": "Punchbags",
+    "participants": 1218,
     "position": 0,
-    "score": 21,
-    "lives": 47,
-    "wins": 92078,
-    "losses": 92387,
+    "score": 2,
+    "lives": 44,
+    "wins": 93225,
+    "losses": 95052,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
       {
-        "id": 2094410,
-        "name": "ekiM_",
+        "id": 2029519,
+        "name": "JDWV",
+        "active": false
+      },
+      {
+        "id": 2947669,
+        "name": "BoonieSteep",
         "active": true
       },
       {
-        "id": 1667842,
-        "name": "Jokur",
-        "active": true
-      },
-      {
-        "id": 662171,
-        "name": "TehButler",
+        "id": 2259658,
+        "name": "Aleks-Wolfbird",
         "active": true
       }
     ]
@@ -176,12 +176,12 @@
   {
     "id": 14,
     "name": "Pacifists",
-    "participants": 1371,
+    "participants": 1370,
     "position": 0,
-    "score": 19,
+    "score": 2,
     "lives": 49,
-    "wins": 90795,
-    "losses": 89590,
+    "wins": 90950,
+    "losses": 89782,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -209,8 +209,8 @@
     "position": 0,
     "score": 1,
     "lives": 14,
-    "wins": 82095,
-    "losses": 79091,
+    "wins": 82231,
+    "losses": 79249,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -232,30 +232,30 @@
     ]
   },
   {
-    "id": 34,
-    "name": "Punchbags",
-    "participants": 1221,
+    "id": 33,
+    "name": "Team Cupcake",
+    "participants": 1360,
     "position": 0,
     "score": 0,
-    "lives": 44,
-    "wins": 93121,
-    "losses": 94903,
+    "lives": 47,
+    "wins": 92173,
+    "losses": 92540,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
       {
-        "id": 2029519,
-        "name": "JDWV",
-        "active": false
-      },
-      {
-        "id": 2947669,
-        "name": "BoonieSteep",
+        "id": 2094410,
+        "name": "ekiM_",
         "active": true
       },
       {
-        "id": 2259658,
-        "name": "Aleks-Wolfbird",
+        "id": 1667842,
+        "name": "Jokur",
+        "active": true
+      },
+      {
+        "id": 662171,
+        "name": "TehButler",
         "active": true
       }
     ]
