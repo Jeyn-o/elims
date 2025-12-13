@@ -4,10 +4,10 @@
     "name": "Lumberjacks",
     "participants": 1461,
     "position": 0,
-    "score": 4478,
+    "score": 4432,
     "lives": 49,
-    "wins": 88560,
-    "losses": 92146,
+    "wins": 88653,
+    "losses": 92274,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -33,10 +33,10 @@
     "name": "Breakfast Club",
     "participants": 1493,
     "position": 0,
-    "score": 3894,
+    "score": 3881,
     "lives": 50,
-    "wins": 90396,
-    "losses": 70952,
+    "wins": 90537,
+    "losses": 71082,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -62,10 +62,10 @@
     "name": "Total Bankers",
     "participants": 1582,
     "position": 0,
-    "score": 2922,
+    "score": 2955,
     "lives": 50,
-    "wins": 92942,
-    "losses": 63401,
+    "wins": 93042,
+    "losses": 63453,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -91,10 +91,10 @@
     "name": "Murder Hornets",
     "participants": 1327,
     "position": 0,
-    "score": 641,
+    "score": 661,
     "lives": 49,
-    "wins": 81406,
-    "losses": 64481,
+    "wins": 81577,
+    "losses": 64603,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -120,10 +120,10 @@
     "name": "Terror Bytes",
     "participants": 1397,
     "position": 0,
-    "score": 43,
+    "score": 22,
     "lives": 50,
-    "wins": 92229,
-    "losses": 81436,
+    "wins": 92381,
+    "losses": 81586,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -149,10 +149,10 @@
     "name": "Punchbags",
     "participants": 1250,
     "position": 0,
-    "score": 9,
+    "score": 20,
     "lives": 50,
-    "wins": 86220,
-    "losses": 87340,
+    "wins": 86325,
+    "losses": 87432,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -178,10 +178,10 @@
     "name": "Team Cupcake",
     "participants": 1383,
     "position": 0,
-    "score": 5,
+    "score": 12,
     "lives": 48,
-    "wins": 84507,
-    "losses": 84680,
+    "wins": 84672,
+    "losses": 84826,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -207,10 +207,10 @@
     "name": "Pacifists",
     "participants": 1395,
     "position": 0,
-    "score": 5,
+    "score": 9,
     "lives": 50,
-    "wins": 82953,
-    "losses": 82170,
+    "wins": 83067,
+    "losses": 82275,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -232,43 +232,14 @@
     ]
   },
   {
-    "id": 68,
-    "name": "Metalheads",
-    "participants": 1246,
-    "position": 0,
-    "score": 1,
-    "lives": 20,
-    "wins": 75390,
-    "losses": 70071,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 876657,
-        "name": "Cheb",
-        "active": true
-      },
-      {
-        "id": 467306,
-        "name": "Zorfar",
-        "active": true
-      },
-      {
-        "id": 2504970,
-        "name": "Queen-Warly-Woo",
-        "active": true
-      }
-    ]
-  },
-  {
     "id": 1,
     "name": "Pink Power",
-    "participants": 1270,
+    "participants": 1268,
     "position": 0,
-    "score": 0,
-    "lives": 19,
-    "wins": 74161,
-    "losses": 114988,
+    "score": 5,
+    "lives": 18,
+    "wins": 74284,
+    "losses": 115183,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -285,6 +256,35 @@
       {
         "id": 2167612,
         "name": "Jairyll",
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Metalheads",
+    "participants": 1246,
+    "position": 0,
+    "score": 1,
+    "lives": 20,
+    "wins": 75523,
+    "losses": 70248,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 876657,
+        "name": "Cheb",
+        "active": true
+      },
+      {
+        "id": 467306,
+        "name": "Zorfar",
+        "active": true
+      },
+      {
+        "id": 2504970,
+        "name": "Queen-Warly-Woo",
         "active": true
       }
     ]
