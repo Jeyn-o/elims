@@ -1,71 +1,13 @@
 [
   {
-    "id": 14,
-    "name": "Pacifists",
-    "participants": 1337,
-    "position": 0,
-    "score": 2187,
-    "lives": 46,
-    "wins": 105632,
-    "losses": 102006,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 1993550,
-        "name": "FidelCashflow",
-        "active": true
-      },
-      {
-        "id": 2668954,
-        "name": "Jefersonakl",
-        "active": true
-      },
-      {
-        "id": 1497907,
-        "name": "The_Boss",
-        "active": true
-      }
-    ]
-  },
-  {
-    "id": 49,
-    "name": "Terror Bytes",
-    "participants": 1357,
-    "position": 0,
-    "score": 2165,
-    "lives": 50,
-    "wins": 115078,
-    "losses": 98334,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 1846075,
-        "name": "Stretch",
-        "active": true
-      },
-      {
-        "id": 1443076,
-        "name": "Euphoria",
-        "active": true
-      },
-      {
-        "id": 1580562,
-        "name": "LDP",
-        "active": true
-      }
-    ]
-  },
-  {
     "id": 34,
     "name": "Punchbags",
     "participants": 1169,
     "position": 0,
-    "score": 1965,
+    "score": 2062,
     "lives": 39,
-    "wins": 105901,
-    "losses": 106821,
+    "wins": 106120,
+    "losses": 106923,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -87,14 +29,72 @@
     ]
   },
   {
+    "id": 49,
+    "name": "Terror Bytes",
+    "participants": 1356,
+    "position": 0,
+    "score": 2058,
+    "lives": 50,
+    "wins": 115220,
+    "losses": 98564,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 1846075,
+        "name": "Stretch",
+        "active": true
+      },
+      {
+        "id": 1443076,
+        "name": "Euphoria",
+        "active": true
+      },
+      {
+        "id": 1580562,
+        "name": "LDP",
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Pacifists",
+    "participants": 1336,
+    "position": 0,
+    "score": 2034,
+    "lives": 46,
+    "wins": 105742,
+    "losses": 102256,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 1993550,
+        "name": "FidelCashflow",
+        "active": true
+      },
+      {
+        "id": 2668954,
+        "name": "Jefersonakl",
+        "active": true
+      },
+      {
+        "id": 1497907,
+        "name": "The_Boss",
+        "active": true
+      }
+    ]
+  },
+  {
     "id": 52,
     "name": "Total Bankers",
     "participants": 1547,
     "position": 0,
-    "score": 1874,
+    "score": 1908,
     "lives": 50,
-    "wins": 114313,
-    "losses": 80455,
+    "wins": 114472,
+    "losses": 80562,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -120,10 +120,10 @@
     "name": "Murder Hornets",
     "participants": 1283,
     "position": 0,
-    "score": 1656,
+    "score": 1710,
     "lives": 48,
-    "wins": 104122,
-    "losses": 83997,
+    "wins": 104318,
+    "losses": 84129,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -149,10 +149,10 @@
     "name": "Breakfast Club",
     "participants": 1458,
     "position": 0,
-    "score": 1643,
+    "score": 1683,
     "lives": 50,
-    "wins": 112585,
-    "losses": 91714,
+    "wins": 112727,
+    "losses": 91812,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -178,10 +178,10 @@
     "name": "Team Cupcake",
     "participants": 1325,
     "position": 0,
-    "score": 507,
+    "score": 542,
     "lives": 37,
-    "wins": 105115,
-    "losses": 107602,
+    "wins": 105296,
+    "losses": 107742,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -209,8 +209,8 @@
     "position": 0,
     "score": 0,
     "lives": 29,
-    "wins": 107381,
-    "losses": 117922,
+    "wins": 107491,
+    "losses": 118122,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
