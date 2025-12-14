@@ -4,10 +4,10 @@
     "name": "Murder Hornets",
     "participants": 1268,
     "position": 0,
-    "score": 2148,
+    "score": 2101,
     "lives": 47,
-    "wins": 120620,
-    "losses": 99562,
+    "wins": 120771,
+    "losses": 99744,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -29,43 +29,14 @@
     ]
   },
   {
-    "id": 36,
-    "name": "Breakfast Club",
-    "participants": 1435,
-    "position": 0,
-    "score": 2018,
-    "lives": 50,
-    "wins": 127990,
-    "losses": 106080,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 2313936,
-        "name": "zuni",
-        "active": true
-      },
-      {
-        "id": 1425465,
-        "name": "Prynce",
-        "active": true
-      },
-      {
-        "id": 2441977,
-        "name": "SimbaJack",
-        "active": true
-      }
-    ]
-  },
-  {
     "id": 34,
     "name": "Punchbags",
     "participants": 1163,
     "position": 0,
-    "score": 2015,
+    "score": 2018,
     "lives": 39,
-    "wins": 120784,
-    "losses": 119890,
+    "wins": 120938,
+    "losses": 120022,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -91,10 +62,10 @@
     "name": "Pacifists",
     "participants": 1312,
     "position": 0,
-    "score": 1995,
+    "score": 2016,
     "lives": 46,
-    "wins": 120467,
-    "losses": 114533,
+    "wins": 120656,
+    "losses": 114662,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -116,30 +87,30 @@
     ]
   },
   {
-    "id": 52,
-    "name": "Total Bankers",
-    "participants": 1535,
+    "id": 36,
+    "name": "Breakfast Club",
+    "participants": 1435,
     "position": 0,
-    "score": 1897,
+    "score": 2015,
     "lives": 50,
-    "wins": 128955,
-    "losses": 92219,
+    "wins": 128151,
+    "losses": 106238,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
       {
-        "id": 2131856,
-        "name": "Superior-",
+        "id": 2313936,
+        "name": "zuni",
         "active": true
       },
       {
-        "id": 1651049,
-        "name": "Natty_Boh",
+        "id": 1425465,
+        "name": "Prynce",
         "active": true
       },
       {
-        "id": 10003,
-        "name": "Shady69",
+        "id": 2441977,
+        "name": "SimbaJack",
         "active": true
       }
     ]
@@ -149,10 +120,10 @@
     "name": "Team Cupcake",
     "participants": 1317,
     "position": 0,
-    "score": 1868,
+    "score": 1932,
     "lives": 37,
-    "wins": 120499,
-    "losses": 119845,
+    "wins": 120737,
+    "losses": 119987,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -174,14 +145,43 @@
     ]
   },
   {
+    "id": 52,
+    "name": "Total Bankers",
+    "participants": 1535,
+    "position": 0,
+    "score": 1857,
+    "lives": 50,
+    "wins": 129090,
+    "losses": 92353,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 2131856,
+        "name": "Superior-",
+        "active": true
+      },
+      {
+        "id": 1651049,
+        "name": "Natty_Boh",
+        "active": true
+      },
+      {
+        "id": 10003,
+        "name": "Shady69",
+        "active": true
+      }
+    ]
+  },
+  {
     "id": 49,
     "name": "Terror Bytes",
-    "participants": 1306,
+    "participants": 1305,
     "position": 0,
-    "score": 0,
-    "lives": 18,
-    "wins": 127016,
-    "losses": 117720,
+    "score": 2,
+    "lives": 17,
+    "wins": 127050,
+    "losses": 117905,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
