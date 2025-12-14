@@ -1,71 +1,13 @@
 [
   {
-    "id": 34,
-    "name": "Punchbags",
-    "participants": 1168,
-    "position": 0,
-    "score": 1856,
-    "lives": 39,
-    "wins": 109707,
-    "losses": 110281,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 2029519,
-        "name": "JDWV",
-        "active": false
-      },
-      {
-        "id": 2947669,
-        "name": "BoonieSteep",
-        "active": true
-      },
-      {
-        "id": 2259658,
-        "name": "Aleks-Wolfbird",
-        "active": true
-      }
-    ]
-  },
-  {
-    "id": 47,
-    "name": "Murder Hornets",
-    "participants": 1278,
-    "position": 0,
-    "score": 1817,
-    "lives": 48,
-    "wins": 107880,
-    "losses": 87407,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 2015160,
-        "name": "Andrew_616",
-        "active": true
-      },
-      {
-        "id": 467479,
-        "name": "Leafeh",
-        "active": true
-      },
-      {
-        "id": 2684760,
-        "name": "Deatvert",
-        "active": true
-      }
-    ]
-  },
-  {
     "id": 36,
     "name": "Breakfast Club",
-    "participants": 1450,
+    "participants": 1449,
     "position": 0,
-    "score": 1814,
+    "score": 1840,
     "lives": 50,
-    "wins": 116327,
-    "losses": 95163,
+    "wins": 116515,
+    "losses": 95320,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -89,12 +31,12 @@
   {
     "id": 14,
     "name": "Pacifists",
-    "participants": 1333,
+    "participants": 1332,
     "position": 0,
-    "score": 1780,
+    "score": 1817,
     "lives": 46,
-    "wins": 108971,
-    "losses": 105299,
+    "wins": 109167,
+    "losses": 105426,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -120,10 +62,10 @@
     "name": "Total Bankers",
     "participants": 1546,
     "position": 0,
-    "score": 1769,
+    "score": 1814,
     "lives": 50,
-    "wins": 117886,
-    "losses": 83565,
+    "wins": 118063,
+    "losses": 83674,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -145,14 +87,72 @@
     ]
   },
   {
+    "id": 34,
+    "name": "Punchbags",
+    "participants": 1168,
+    "position": 0,
+    "score": 1812,
+    "lives": 39,
+    "wins": 109863,
+    "losses": 110458,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 2029519,
+        "name": "JDWV",
+        "active": false
+      },
+      {
+        "id": 2947669,
+        "name": "BoonieSteep",
+        "active": true
+      },
+      {
+        "id": 2259658,
+        "name": "Aleks-Wolfbird",
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Murder Hornets",
+    "participants": 1278,
+    "position": 0,
+    "score": 1790,
+    "lives": 48,
+    "wins": 108072,
+    "losses": 87622,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 2015160,
+        "name": "Andrew_616",
+        "active": true
+      },
+      {
+        "id": 467479,
+        "name": "Leafeh",
+        "active": true
+      },
+      {
+        "id": 2684760,
+        "name": "Deatvert",
+        "active": true
+      }
+    ]
+  },
+  {
     "id": 49,
     "name": "Terror Bytes",
     "participants": 1354,
     "position": 0,
-    "score": 1688,
+    "score": 1646,
     "lives": 50,
-    "wins": 118658,
-    "losses": 101688,
+    "wins": 118807,
+    "losses": 101837,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -178,10 +178,10 @@
     "name": "Team Cupcake",
     "participants": 1324,
     "position": 0,
-    "score": 1273,
+    "score": 1276,
     "lives": 37,
-    "wins": 108871,
-    "losses": 110301,
+    "wins": 109018,
+    "losses": 110441,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -207,10 +207,10 @@
     "name": "Lumberjacks",
     "participants": 1404,
     "position": 0,
-    "score": 0,
-    "lives": 15,
-    "wins": 109268,
-    "losses": 122588,
+    "score": 2,
+    "lives": 14,
+    "wins": 109329,
+    "losses": 122780,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
