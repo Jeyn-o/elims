@@ -1,71 +1,13 @@
 [
   {
-    "id": 47,
-    "name": "Murder Hornets",
-    "participants": 1268,
-    "position": 0,
-    "score": 2101,
-    "lives": 47,
-    "wins": 120771,
-    "losses": 99744,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 2015160,
-        "name": "Andrew_616",
-        "active": true
-      },
-      {
-        "id": 467479,
-        "name": "Leafeh",
-        "active": true
-      },
-      {
-        "id": 2684760,
-        "name": "Deatvert",
-        "active": true
-      }
-    ]
-  },
-  {
-    "id": 34,
-    "name": "Punchbags",
-    "participants": 1163,
-    "position": 0,
-    "score": 2018,
-    "lives": 39,
-    "wins": 120938,
-    "losses": 120022,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 2029519,
-        "name": "JDWV",
-        "active": false
-      },
-      {
-        "id": 2947669,
-        "name": "BoonieSteep",
-        "active": true
-      },
-      {
-        "id": 2259658,
-        "name": "Aleks-Wolfbird",
-        "active": true
-      }
-    ]
-  },
-  {
     "id": 14,
     "name": "Pacifists",
-    "participants": 1312,
+    "participants": 1311,
     "position": 0,
-    "score": 2016,
+    "score": 2112,
     "lives": 46,
-    "wins": 120656,
-    "losses": 114662,
+    "wins": 120924,
+    "losses": 114809,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -87,14 +29,72 @@
     ]
   },
   {
+    "id": 34,
+    "name": "Punchbags",
+    "participants": 1163,
+    "position": 0,
+    "score": 2032,
+    "lives": 39,
+    "wins": 121102,
+    "losses": 120163,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 2029519,
+        "name": "JDWV",
+        "active": false
+      },
+      {
+        "id": 2947669,
+        "name": "BoonieSteep",
+        "active": true
+      },
+      {
+        "id": 2259658,
+        "name": "Aleks-Wolfbird",
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Murder Hornets",
+    "participants": 1268,
+    "position": 0,
+    "score": 2028,
+    "lives": 47,
+    "wins": 120934,
+    "losses": 99966,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 2015160,
+        "name": "Andrew_616",
+        "active": true
+      },
+      {
+        "id": 467479,
+        "name": "Leafeh",
+        "active": true
+      },
+      {
+        "id": 2684760,
+        "name": "Deatvert",
+        "active": true
+      }
+    ]
+  },
+  {
     "id": 36,
     "name": "Breakfast Club",
     "participants": 1435,
     "position": 0,
-    "score": 2015,
+    "score": 2014,
     "lives": 50,
-    "wins": 128151,
-    "losses": 106238,
+    "wins": 128258,
+    "losses": 106339,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -120,10 +120,10 @@
     "name": "Team Cupcake",
     "participants": 1317,
     "position": 0,
-    "score": 1932,
+    "score": 1930,
     "lives": 37,
-    "wins": 120737,
-    "losses": 119987,
+    "wins": 120887,
+    "losses": 120126,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -149,10 +149,10 @@
     "name": "Total Bankers",
     "participants": 1535,
     "position": 0,
-    "score": 1857,
+    "score": 1825,
     "lives": 50,
-    "wins": 129090,
-    "losses": 92353,
+    "wins": 129229,
+    "losses": 92490,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -176,12 +176,12 @@
   {
     "id": 49,
     "name": "Terror Bytes",
-    "participants": 1305,
+    "participants": 1303,
     "position": 0,
-    "score": 2,
-    "lives": 17,
-    "wins": 127050,
-    "losses": 117905,
+    "score": 0,
+    "lives": 16,
+    "wins": 127160,
+    "losses": 118119,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
