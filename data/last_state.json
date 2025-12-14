@@ -1,13 +1,42 @@
 [
   {
+    "id": 34,
+    "name": "Punchbags",
+    "participants": 1164,
+    "position": 0,
+    "score": 2241,
+    "lives": 39,
+    "wins": 118390,
+    "losses": 117604,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 2029519,
+        "name": "JDWV",
+        "active": false
+      },
+      {
+        "id": 2947669,
+        "name": "BoonieSteep",
+        "active": true
+      },
+      {
+        "id": 2259658,
+        "name": "Aleks-Wolfbird",
+        "active": true
+      }
+    ]
+  },
+  {
     "id": 52,
     "name": "Total Bankers",
     "participants": 1537,
     "position": 0,
-    "score": 2262,
+    "score": 2230,
     "lives": 50,
-    "wins": 126596,
-    "losses": 90196,
+    "wins": 126769,
+    "losses": 90368,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -33,10 +62,10 @@
     "name": "Pacifists",
     "participants": 1320,
     "position": 0,
-    "score": 2248,
+    "score": 2221,
     "lives": 46,
-    "wins": 117877,
-    "losses": 112181,
+    "wins": 118059,
+    "losses": 112367,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -62,10 +91,10 @@
     "name": "Breakfast Club",
     "participants": 1438,
     "position": 0,
-    "score": 2243,
+    "score": 2201,
     "lives": 50,
-    "wins": 125488,
-    "losses": 103496,
+    "wins": 125618,
+    "losses": 103658,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -87,43 +116,14 @@
     ]
   },
   {
-    "id": 34,
-    "name": "Punchbags",
-    "participants": 1164,
-    "position": 0,
-    "score": 2243,
-    "lives": 39,
-    "wins": 118199,
-    "losses": 117427,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 2029519,
-        "name": "JDWV",
-        "active": false
-      },
-      {
-        "id": 2947669,
-        "name": "BoonieSteep",
-        "active": true
-      },
-      {
-        "id": 2259658,
-        "name": "Aleks-Wolfbird",
-        "active": true
-      }
-    ]
-  },
-  {
     "id": 33,
     "name": "Team Cupcake",
     "participants": 1320,
     "position": 0,
-    "score": 2002,
+    "score": 2075,
     "lives": 37,
-    "wins": 118199,
-    "losses": 117689,
+    "wins": 118432,
+    "losses": 117820,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -149,10 +149,10 @@
     "name": "Murder Hornets",
     "participants": 1269,
     "position": 0,
-    "score": 943,
+    "score": 973,
     "lives": 47,
-    "wins": 117345,
-    "losses": 97575,
+    "wins": 117549,
+    "losses": 97749,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -176,12 +176,12 @@
   {
     "id": 49,
     "name": "Terror Bytes",
-    "participants": 1324,
+    "participants": 1322,
     "position": 0,
     "score": 0,
-    "lives": 28,
-    "wins": 125927,
-    "losses": 114585,
+    "lives": 27,
+    "wins": 126026,
+    "losses": 114795,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
