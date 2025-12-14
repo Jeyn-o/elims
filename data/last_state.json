@@ -1,42 +1,13 @@
 [
   {
-    "id": 49,
-    "name": "Terror Bytes",
-    "participants": 1359,
-    "position": 0,
-    "score": 2447,
-    "lives": 50,
-    "wins": 114185,
-    "losses": 97276,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 1846075,
-        "name": "Stretch",
-        "active": true
-      },
-      {
-        "id": 1443076,
-        "name": "Euphoria",
-        "active": true
-      },
-      {
-        "id": 1580562,
-        "name": "LDP",
-        "active": true
-      }
-    ]
-  },
-  {
     "id": 14,
     "name": "Pacifists",
     "participants": 1337,
     "position": 0,
-    "score": 2438,
+    "score": 2378,
     "lives": 46,
-    "wins": 104761,
-    "losses": 101005,
+    "wins": 104899,
+    "losses": 101178,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -58,30 +29,30 @@
     ]
   },
   {
-    "id": 52,
-    "name": "Total Bankers",
-    "participants": 1548,
+    "id": 49,
+    "name": "Terror Bytes",
+    "participants": 1359,
     "position": 0,
-    "score": 1808,
+    "score": 2376,
     "lives": 50,
-    "wins": 113477,
-    "losses": 79846,
+    "wins": 114341,
+    "losses": 97487,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
       {
-        "id": 2131856,
-        "name": "Superior-",
+        "id": 1846075,
+        "name": "Stretch",
         "active": true
       },
       {
-        "id": 1651049,
-        "name": "Natty_Boh",
+        "id": 1443076,
+        "name": "Euphoria",
         "active": true
       },
       {
-        "id": 10003,
-        "name": "Shady69",
+        "id": 1580562,
+        "name": "LDP",
         "active": true
       }
     ]
@@ -89,12 +60,12 @@
   {
     "id": 34,
     "name": "Punchbags",
-    "participants": 1172,
+    "participants": 1171,
     "position": 0,
-    "score": 1722,
+    "score": 1796,
     "lives": 39,
-    "wins": 104939,
-    "losses": 106216,
+    "wins": 105128,
+    "losses": 106316,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -116,14 +87,43 @@
     ]
   },
   {
+    "id": 52,
+    "name": "Total Bankers",
+    "participants": 1548,
+    "position": 0,
+    "score": 1754,
+    "lives": 50,
+    "wins": 113638,
+    "losses": 80031,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 2131856,
+        "name": "Superior-",
+        "active": true
+      },
+      {
+        "id": 1651049,
+        "name": "Natty_Boh",
+        "active": true
+      },
+      {
+        "id": 10003,
+        "name": "Shady69",
+        "active": true
+      }
+    ]
+  },
+  {
     "id": 36,
     "name": "Breakfast Club",
-    "participants": 1460,
+    "participants": 1458,
     "position": 0,
-    "score": 1557,
+    "score": 1636,
     "lives": 50,
-    "wins": 111659,
-    "losses": 90903,
+    "wins": 111913,
+    "losses": 91068,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -149,10 +149,10 @@
     "name": "Murder Hornets",
     "participants": 1284,
     "position": 0,
-    "score": 1419,
+    "score": 1504,
     "lives": 48,
-    "wins": 103098,
-    "losses": 83274,
+    "wins": 103325,
+    "losses": 83408,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -176,12 +176,12 @@
   {
     "id": 33,
     "name": "Team Cupcake",
-    "participants": 1326,
+    "participants": 1325,
     "position": 0,
-    "score": 606,
+    "score": 553,
     "lives": 37,
-    "wins": 104281,
-    "losses": 106708,
+    "wins": 104416,
+    "losses": 106890,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -205,12 +205,12 @@
   {
     "id": 32,
     "name": "Lumberjacks",
-    "participants": 1420,
+    "participants": 1419,
     "position": 0,
     "score": 0,
-    "lives": 33,
-    "wins": 106890,
-    "losses": 116786,
+    "lives": 32,
+    "wins": 107007,
+    "losses": 117013,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
