@@ -1,42 +1,13 @@
 [
   {
-    "id": 52,
-    "name": "Total Bankers",
-    "participants": 1504,
-    "position": 0,
-    "score": 3911,
-    "lives": 50,
-    "wins": 160386,
-    "losses": 117345,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 2131856,
-        "name": "Superior-",
-        "active": true
-      },
-      {
-        "id": 1651049,
-        "name": "Natty_Boh",
-        "active": true
-      },
-      {
-        "id": 10003,
-        "name": "Shady69",
-        "active": true
-      }
-    ]
-  },
-  {
     "id": 47,
     "name": "Murder Hornets",
     "participants": 1255,
     "position": 0,
-    "score": 3885,
+    "score": 4060,
     "lives": 47,
-    "wins": 150112,
-    "losses": 124358,
+    "wins": 150395,
+    "losses": 124460,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -58,14 +29,43 @@
     ]
   },
   {
+    "id": 52,
+    "name": "Total Bankers",
+    "participants": 1504,
+    "position": 0,
+    "score": 3877,
+    "lives": 50,
+    "wins": 160569,
+    "losses": 117560,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 2131856,
+        "name": "Superior-",
+        "active": true
+      },
+      {
+        "id": 1651049,
+        "name": "Natty_Boh",
+        "active": true
+      },
+      {
+        "id": 10003,
+        "name": "Shady69",
+        "active": true
+      }
+    ]
+  },
+  {
     "id": 14,
     "name": "Pacifists",
     "participants": 1280,
     "position": 0,
-    "score": 3110,
+    "score": 3190,
     "lives": 46,
-    "wins": 150993,
-    "losses": 140777,
+    "wins": 151239,
+    "losses": 140940,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -91,10 +91,10 @@
     "name": "Team Cupcake",
     "participants": 1293,
     "position": 0,
-    "score": 221,
-    "lives": 31,
-    "wins": 146245,
-    "losses": 143845,
+    "score": 0,
+    "lives": 30,
+    "wins": 146302,
+    "losses": 144134,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
