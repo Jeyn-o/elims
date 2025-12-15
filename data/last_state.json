@@ -1,42 +1,13 @@
 [
   {
-    "id": 33,
-    "name": "Team Cupcake",
-    "participants": 1298,
-    "position": 0,
-    "score": 3376,
-    "lives": 37,
-    "wins": 136926,
-    "losses": 132316,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 2094410,
-        "name": "ekiM_",
-        "active": true
-      },
-      {
-        "id": 1667842,
-        "name": "Jokur",
-        "active": true
-      },
-      {
-        "id": 662171,
-        "name": "TehButler",
-        "active": true
-      }
-    ]
-  },
-  {
     "id": 47,
     "name": "Murder Hornets",
     "participants": 1259,
     "position": 0,
-    "score": 3333,
+    "score": 3362,
     "lives": 47,
-    "wins": 138909,
-    "losses": 114732,
+    "wins": 139077,
+    "losses": 114864,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -58,14 +29,43 @@
     ]
   },
   {
+    "id": 33,
+    "name": "Team Cupcake",
+    "participants": 1298,
+    "position": 0,
+    "score": 3318,
+    "lives": 37,
+    "wins": 137129,
+    "losses": 132568,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 2094410,
+        "name": "ekiM_",
+        "active": true
+      },
+      {
+        "id": 1667842,
+        "name": "Jokur",
+        "active": true
+      },
+      {
+        "id": 662171,
+        "name": "TehButler",
+        "active": true
+      }
+    ]
+  },
+  {
     "id": 14,
     "name": "Pacifists",
     "participants": 1284,
     "position": 0,
-    "score": 2952,
+    "score": 3114,
     "lives": 46,
-    "wins": 139364,
-    "losses": 130364,
+    "wins": 139617,
+    "losses": 130446,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -91,10 +91,10 @@
     "name": "Total Bankers",
     "participants": 1517,
     "position": 0,
-    "score": 1906,
+    "score": 1772,
     "lives": 50,
-    "wins": 147036,
-    "losses": 107210,
+    "wins": 147170,
+    "losses": 107469,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -121,9 +121,9 @@
     "participants": 1122,
     "position": 0,
     "score": 5,
-    "lives": 2,
-    "wins": 134082,
-    "losses": 138982,
+    "lives": 1,
+    "wins": 134296,
+    "losses": 139212,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -149,10 +149,10 @@
     "name": "Breakfast Club",
     "participants": 1392,
     "position": 0,
-    "score": 0,
+    "score": 1,
     "lives": 35,
-    "wins": 142320,
-    "losses": 126102,
+    "wins": 142527,
+    "losses": 126326,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
