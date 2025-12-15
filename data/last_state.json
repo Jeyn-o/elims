@@ -4,10 +4,10 @@
     "name": "Murder Hornets",
     "participants": 1255,
     "position": 0,
-    "score": 3373,
+    "score": 3419,
     "lives": 47,
-    "wins": 148311,
-    "losses": 123069,
+    "wins": 148558,
+    "losses": 123270,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -29,14 +29,43 @@
     ]
   },
   {
+    "id": 52,
+    "name": "Total Bankers",
+    "participants": 1504,
+    "position": 0,
+    "score": 2808,
+    "lives": 50,
+    "wins": 158341,
+    "losses": 116403,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 2131856,
+        "name": "Superior-",
+        "active": true
+      },
+      {
+        "id": 1651049,
+        "name": "Natty_Boh",
+        "active": true
+      },
+      {
+        "id": 10003,
+        "name": "Shady69",
+        "active": true
+      }
+    ]
+  },
+  {
     "id": 14,
     "name": "Pacifists",
     "participants": 1280,
     "position": 0,
-    "score": 2832,
+    "score": 2706,
     "lives": 46,
-    "wins": 149132,
-    "losses": 139194,
+    "wins": 149249,
+    "losses": 139437,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -62,10 +91,10 @@
     "name": "Team Cupcake",
     "participants": 1294,
     "position": 0,
-    "score": 2505,
-    "lives": 37,
-    "wins": 145396,
-    "losses": 140712,
+    "score": 2194,
+    "lives": 36,
+    "wins": 145526,
+    "losses": 141153,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -82,35 +111,6 @@
       {
         "id": 662171,
         "name": "TehButler",
-        "active": true
-      }
-    ]
-  },
-  {
-    "id": 52,
-    "name": "Total Bankers",
-    "participants": 1505,
-    "position": 0,
-    "score": 2417,
-    "lives": 50,
-    "wins": 157871,
-    "losses": 116324,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 2131856,
-        "name": "Superior-",
-        "active": true
-      },
-      {
-        "id": 1651049,
-        "name": "Natty_Boh",
-        "active": true
-      },
-      {
-        "id": 10003,
-        "name": "Shady69",
         "active": true
       }
     ]
