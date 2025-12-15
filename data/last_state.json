@@ -4,10 +4,10 @@
     "name": "Murder Hornets",
     "participants": 1259,
     "position": 0,
-    "score": 3271,
+    "score": 3312,
     "lives": 47,
-    "wins": 137285,
-    "losses": 113363,
+    "wins": 137434,
+    "losses": 113455,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -33,10 +33,10 @@
     "name": "Team Cupcake",
     "participants": 1299,
     "position": 0,
-    "score": 3237,
+    "score": 3209,
     "lives": 37,
-    "wins": 135342,
-    "losses": 131276,
+    "wins": 135453,
+    "losses": 131381,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -62,10 +62,10 @@
     "name": "Total Bankers",
     "participants": 1517,
     "position": 0,
-    "score": 2723,
+    "score": 2650,
     "lives": 50,
-    "wins": 145577,
-    "losses": 105304,
+    "wins": 145732,
+    "losses": 105501,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -91,10 +91,10 @@
     "name": "Pacifists",
     "participants": 1286,
     "position": 0,
-    "score": 2304,
+    "score": 2400,
     "lives": 46,
-    "wins": 137781,
-    "losses": 129578,
+    "wins": 137926,
+    "losses": 129617,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -116,43 +116,14 @@
     ]
   },
   {
-    "id": 36,
-    "name": "Breakfast Club",
-    "participants": 1401,
-    "position": 0,
-    "score": 36,
-    "lives": 35,
-    "wins": 141397,
-    "losses": 124428,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 2313936,
-        "name": "zuni",
-        "active": true
-      },
-      {
-        "id": 1425465,
-        "name": "Prynce",
-        "active": true
-      },
-      {
-        "id": 2441977,
-        "name": "SimbaJack",
-        "active": true
-      }
-    ]
-  },
-  {
     "id": 34,
     "name": "Punchbags",
     "participants": 1126,
     "position": 0,
     "score": 1,
     "lives": 8,
-    "wins": 132874,
-    "losses": 137376,
+    "wins": 133017,
+    "losses": 137526,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -169,6 +140,35 @@
       {
         "id": 2259658,
         "name": "Aleks-Wolfbird",
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Breakfast Club",
+    "participants": 1399,
+    "position": 0,
+    "score": 0,
+    "lives": 35,
+    "wins": 141477,
+    "losses": 124628,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 2313936,
+        "name": "zuni",
+        "active": true
+      },
+      {
+        "id": 1425465,
+        "name": "Prynce",
+        "active": true
+      },
+      {
+        "id": 2441977,
+        "name": "SimbaJack",
         "active": true
       }
     ]
