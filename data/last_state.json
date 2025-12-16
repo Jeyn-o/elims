@@ -4,10 +4,10 @@
     "name": "Murder Hornets",
     "participants": 1254,
     "position": 0,
-    "score": 3834,
+    "score": 3772,
     "lives": 47,
-    "wins": 157026,
-    "losses": 130141,
+    "wins": 157091,
+    "losses": 130268,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -29,43 +29,14 @@
     ]
   },
   {
-    "id": 52,
-    "name": "Total Bankers",
-    "participants": 1501,
-    "position": 0,
-    "score": 3645,
-    "lives": 50,
-    "wins": 167985,
-    "losses": 123753,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 2131856,
-        "name": "Superior-",
-        "active": true
-      },
-      {
-        "id": 1651049,
-        "name": "Natty_Boh",
-        "active": true
-      },
-      {
-        "id": 10003,
-        "name": "Shady69",
-        "active": true
-      }
-    ]
-  },
-  {
     "id": 14,
     "name": "Pacifists",
     "participants": 1278,
     "position": 0,
-    "score": 3622,
+    "score": 3679,
     "lives": 46,
-    "wins": 159362,
-    "losses": 147611,
+    "wins": 159523,
+    "losses": 147715,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -87,30 +58,30 @@
     ]
   },
   {
-    "id": 33,
-    "name": "Team Cupcake",
-    "participants": 1288,
+    "id": 52,
+    "name": "Total Bankers",
+    "participants": 1501,
     "position": 0,
-    "score": 26,
-    "lives": 1,
-    "wins": 150705,
-    "losses": 152162,
+    "score": 3660,
+    "lives": 50,
+    "wins": 168126,
+    "losses": 123879,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
       {
-        "id": 2094410,
-        "name": "ekiM_",
+        "id": 2131856,
+        "name": "Superior-",
         "active": true
       },
       {
-        "id": 1667842,
-        "name": "Jokur",
+        "id": 1651049,
+        "name": "Natty_Boh",
         "active": true
       },
       {
-        "id": 662171,
-        "name": "TehButler",
+        "id": 10003,
+        "name": "Shady69",
         "active": true
       }
     ]
@@ -198,6 +169,35 @@
       {
         "id": 2557282,
         "name": "Qfiffle",
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Team Cupcake",
+    "participants": 1288,
+    "position": 4,
+    "score": 16,
+    "lives": 0,
+    "wins": 150843,
+    "losses": 152310,
+    "eliminated": true,
+    "eliminated_timestamp": 1,
+    "leaders": [
+      {
+        "id": 2094410,
+        "name": "ekiM_",
+        "active": true
+      },
+      {
+        "id": 1667842,
+        "name": "Jokur",
+        "active": true
+      },
+      {
+        "id": 662171,
+        "name": "TehButler",
         "active": true
       }
     ]
