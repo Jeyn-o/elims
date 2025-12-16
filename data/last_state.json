@@ -1,42 +1,13 @@
 [
   {
-    "id": 47,
-    "name": "Murder Hornets",
-    "participants": 1254,
-    "position": 0,
-    "score": 3752,
-    "lives": 47,
-    "wins": 155913,
-    "losses": 129230,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 2015160,
-        "name": "Andrew_616",
-        "active": true
-      },
-      {
-        "id": 467479,
-        "name": "Leafeh",
-        "active": true
-      },
-      {
-        "id": 2684760,
-        "name": "Deatvert",
-        "active": true
-      }
-    ]
-  },
-  {
     "id": 14,
     "name": "Pacifists",
     "participants": 1279,
     "position": 0,
-    "score": 3750,
+    "score": 3816,
     "lives": 46,
-    "wins": 158203,
-    "losses": 146440,
+    "wins": 158439,
+    "losses": 146608,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -58,14 +29,43 @@
     ]
   },
   {
+    "id": 47,
+    "name": "Murder Hornets",
+    "participants": 1254,
+    "position": 0,
+    "score": 3754,
+    "lives": 47,
+    "wins": 156054,
+    "losses": 129366,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 2015160,
+        "name": "Andrew_616",
+        "active": true
+      },
+      {
+        "id": 467479,
+        "name": "Leafeh",
+        "active": true
+      },
+      {
+        "id": 2684760,
+        "name": "Deatvert",
+        "active": true
+      }
+    ]
+  },
+  {
     "id": 52,
     "name": "Total Bankers",
     "participants": 1501,
     "position": 0,
-    "score": 3623,
+    "score": 3557,
     "lives": 50,
-    "wins": 166744,
-    "losses": 122655,
+    "wins": 166892,
+    "losses": 122867,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -91,10 +91,10 @@
     "name": "Team Cupcake",
     "participants": 1289,
     "position": 0,
-    "score": 2,
+    "score": 0,
     "lives": 6,
-    "wins": 149930,
-    "losses": 151054,
+    "wins": 150049,
+    "losses": 151182,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
