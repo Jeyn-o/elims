@@ -1,42 +1,13 @@
 [
   {
-    "id": 52,
-    "name": "Total Bankers",
-    "participants": 1501,
-    "position": 0,
-    "score": 4387,
-    "lives": 50,
-    "wins": 170569,
-    "losses": 125595,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 2131856,
-        "name": "Superior-",
-        "active": true
-      },
-      {
-        "id": 1651049,
-        "name": "Natty_Boh",
-        "active": true
-      },
-      {
-        "id": 10003,
-        "name": "Shady69",
-        "active": true
-      }
-    ]
-  },
-  {
     "id": 14,
     "name": "Pacifists",
     "participants": 1277,
     "position": 0,
-    "score": 4327,
+    "score": 4511,
     "lives": 46,
-    "wins": 161837,
-    "losses": 149381,
+    "wins": 162099,
+    "losses": 149459,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -58,14 +29,43 @@
     ]
   },
   {
+    "id": 52,
+    "name": "Total Bankers",
+    "participants": 1501,
+    "position": 0,
+    "score": 4051,
+    "lives": 50,
+    "wins": 170625,
+    "losses": 125987,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 2131856,
+        "name": "Superior-",
+        "active": true
+      },
+      {
+        "id": 1651049,
+        "name": "Natty_Boh",
+        "active": true
+      },
+      {
+        "id": 10003,
+        "name": "Shady69",
+        "active": true
+      }
+    ]
+  },
+  {
     "id": 47,
     "name": "Murder Hornets",
     "participants": 1254,
     "position": 0,
-    "score": 2397,
-    "lives": 41,
-    "wins": 158864,
-    "losses": 133416,
+    "score": 2549,
+    "lives": 40,
+    "wins": 159120,
+    "losses": 133520,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
