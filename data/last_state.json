@@ -4,10 +4,10 @@
     "name": "Murder Hornets",
     "participants": 1254,
     "position": 0,
-    "score": 3782,
+    "score": 3749,
     "lives": 47,
-    "wins": 154943,
-    "losses": 128374,
+    "wins": 155099,
+    "losses": 128544,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -29,43 +29,14 @@
     ]
   },
   {
-    "id": 14,
-    "name": "Pacifists",
-    "participants": 1279,
-    "position": 0,
-    "score": 3709,
-    "lives": 46,
-    "wins": 156841,
-    "losses": 145258,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 1993550,
-        "name": "FidelCashflow",
-        "active": true
-      },
-      {
-        "id": 2668954,
-        "name": "Jefersonakl",
-        "active": true
-      },
-      {
-        "id": 1497907,
-        "name": "The_Boss",
-        "active": true
-      }
-    ]
-  },
-  {
     "id": 52,
     "name": "Total Bankers",
     "participants": 1501,
     "position": 0,
-    "score": 3635,
+    "score": 3697,
     "lives": 50,
-    "wins": 165508,
-    "losses": 121601,
+    "wins": 165727,
+    "losses": 121720,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -87,14 +58,43 @@
     ]
   },
   {
+    "id": 14,
+    "name": "Pacifists",
+    "participants": 1279,
+    "position": 0,
+    "score": 3681,
+    "lives": 46,
+    "wins": 157003,
+    "losses": 145434,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 1993550,
+        "name": "FidelCashflow",
+        "active": true
+      },
+      {
+        "id": 2668954,
+        "name": "Jefersonakl",
+        "active": true
+      },
+      {
+        "id": 1497907,
+        "name": "The_Boss",
+        "active": true
+      }
+    ]
+  },
+  {
     "id": 33,
     "name": "Team Cupcake",
     "participants": 1289,
     "position": 0,
-    "score": 1,
-    "lives": 11,
-    "wins": 149199,
-    "losses": 149847,
+    "score": 0,
+    "lives": 10,
+    "wins": 149326,
+    "losses": 150046,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
