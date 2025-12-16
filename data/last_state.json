@@ -1,29 +1,29 @@
 [
   {
-    "id": 47,
-    "name": "Murder Hornets",
-    "participants": 1254,
+    "id": 52,
+    "name": "Total Bankers",
+    "participants": 1501,
     "position": 0,
-    "score": 3772,
-    "lives": 47,
-    "wins": 157091,
-    "losses": 130268,
+    "score": 3864,
+    "lives": 50,
+    "wins": 168382,
+    "losses": 123931,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
       {
-        "id": 2015160,
-        "name": "Andrew_616",
+        "id": 2131856,
+        "name": "Superior-",
         "active": true
       },
       {
-        "id": 467479,
-        "name": "Leafeh",
+        "id": 1651049,
+        "name": "Natty_Boh",
         "active": true
       },
       {
-        "id": 2684760,
-        "name": "Deatvert",
+        "id": 10003,
+        "name": "Shady69",
         "active": true
       }
     ]
@@ -33,10 +33,10 @@
     "name": "Pacifists",
     "participants": 1278,
     "position": 0,
-    "score": 3679,
+    "score": 3691,
     "lives": 46,
-    "wins": 159523,
-    "losses": 147715,
+    "wins": 159891,
+    "losses": 148071,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -58,30 +58,30 @@
     ]
   },
   {
-    "id": 52,
-    "name": "Total Bankers",
-    "participants": 1501,
+    "id": 47,
+    "name": "Murder Hornets",
+    "participants": 1254,
     "position": 0,
-    "score": 3660,
-    "lives": 50,
-    "wins": 168126,
-    "losses": 123879,
+    "score": 3556,
+    "lives": 47,
+    "wins": 157433,
+    "losses": 130826,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
       {
-        "id": 2131856,
-        "name": "Superior-",
+        "id": 2015160,
+        "name": "Andrew_616",
         "active": true
       },
       {
-        "id": 1651049,
-        "name": "Natty_Boh",
+        "id": 467479,
+        "name": "Leafeh",
         "active": true
       },
       {
-        "id": 10003,
-        "name": "Shady69",
+        "id": 2684760,
+        "name": "Deatvert",
         "active": true
       }
     ]
