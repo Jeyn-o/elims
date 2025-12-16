@@ -1,42 +1,13 @@
 [
   {
-    "id": 14,
-    "name": "Pacifists",
-    "participants": 1278,
-    "position": 0,
-    "score": 3793,
-    "lives": 46,
-    "wins": 158551,
-    "losses": 146727,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 1993550,
-        "name": "FidelCashflow",
-        "active": true
-      },
-      {
-        "id": 2668954,
-        "name": "Jefersonakl",
-        "active": true
-      },
-      {
-        "id": 1497907,
-        "name": "The_Boss",
-        "active": true
-      }
-    ]
-  },
-  {
     "id": 47,
     "name": "Murder Hornets",
     "participants": 1254,
     "position": 0,
-    "score": 3770,
+    "score": 3821,
     "lives": 47,
-    "wins": 156162,
-    "losses": 129452,
+    "wins": 156356,
+    "losses": 129565,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -58,14 +29,43 @@
     ]
   },
   {
+    "id": 14,
+    "name": "Pacifists",
+    "participants": 1278,
+    "position": 0,
+    "score": 3770,
+    "lives": 46,
+    "wins": 158704,
+    "losses": 146867,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 1993550,
+        "name": "FidelCashflow",
+        "active": true
+      },
+      {
+        "id": 2668954,
+        "name": "Jefersonakl",
+        "active": true
+      },
+      {
+        "id": 1497907,
+        "name": "The_Boss",
+        "active": true
+      }
+    ]
+  },
+  {
     "id": 52,
     "name": "Total Bankers",
     "participants": 1501,
     "position": 0,
-    "score": 3564,
+    "score": 3533,
     "lives": 50,
-    "wins": 167014,
-    "losses": 122977,
+    "wins": 167178,
+    "losses": 123124,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -91,10 +91,10 @@
     "name": "Team Cupcake",
     "participants": 1289,
     "position": 0,
-    "score": 0,
-    "lives": 5,
-    "wins": 150145,
-    "losses": 151305,
+    "score": 3,
+    "lives": 4,
+    "wins": 150206,
+    "losses": 151477,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
