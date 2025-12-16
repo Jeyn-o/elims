@@ -4,10 +4,10 @@
     "name": "Murder Hornets",
     "participants": 1253,
     "position": 0,
-    "score": 5920,
+    "score": 5903,
     "lives": 34,
-    "wins": 167490,
-    "losses": 138379,
+    "wins": 167632,
+    "losses": 138538,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -29,43 +29,14 @@
     ]
   },
   {
-    "id": 14,
-    "name": "Pacifists",
-    "participants": 1275,
-    "position": 0,
-    "score": 2620,
-    "lives": 46,
-    "wins": 169579,
-    "losses": 158523,
-    "eliminated": false,
-    "eliminated_timestamp": null,
-    "leaders": [
-      {
-        "id": 1993550,
-        "name": "FidelCashflow",
-        "active": true
-      },
-      {
-        "id": 2668954,
-        "name": "Jefersonakl",
-        "active": true
-      },
-      {
-        "id": 1497907,
-        "name": "The_Boss",
-        "active": true
-      }
-    ]
-  },
-  {
     "id": 52,
     "name": "Total Bankers",
     "participants": 1497,
     "position": 0,
-    "score": 2571,
+    "score": 2718,
     "lives": 25,
-    "wins": 178692,
-    "losses": 135981,
+    "wins": 179028,
+    "losses": 136170,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -82,6 +53,35 @@
       {
         "id": 10003,
         "name": "Shady69",
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Pacifists",
+    "participants": 1274,
+    "position": 0,
+    "score": 2490,
+    "lives": 46,
+    "wins": 169741,
+    "losses": 158815,
+    "eliminated": false,
+    "eliminated_timestamp": null,
+    "leaders": [
+      {
+        "id": 1993550,
+        "name": "FidelCashflow",
+        "active": true
+      },
+      {
+        "id": 2668954,
+        "name": "Jefersonakl",
+        "active": true
+      },
+      {
+        "id": 1497907,
+        "name": "The_Boss",
         "active": true
       }
     ]
