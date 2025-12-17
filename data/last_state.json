@@ -6,8 +6,8 @@
     "position": 0,
     "score": 10011,
     "lives": 34,
-    "wins": 184079,
-    "losses": 147269,
+    "wins": 184289,
+    "losses": 147284,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -34,9 +34,9 @@
     "participants": 1491,
     "position": 0,
     "score": 0,
-    "lives": 4,
-    "wins": 192445,
-    "losses": 154681,
+    "lives": 3,
+    "wins": 192460,
+    "losses": 154891,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
