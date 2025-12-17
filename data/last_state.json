@@ -6,8 +6,8 @@
     "position": 0,
     "score": 10011,
     "lives": 34,
-    "wins": 182296,
-    "losses": 146904,
+    "wins": 182505,
+    "losses": 146940,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
@@ -31,12 +31,12 @@
   {
     "id": 52,
     "name": "Total Bankers",
-    "participants": 1492,
+    "participants": 1491,
     "position": 0,
     "score": 0,
-    "lives": 10,
-    "wins": 192080,
-    "losses": 152898,
+    "lives": 9,
+    "wins": 192116,
+    "losses": 153107,
     "eliminated": false,
     "eliminated_timestamp": null,
     "leaders": [
